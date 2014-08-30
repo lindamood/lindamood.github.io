@@ -1,1 +1,60 @@
-Hello World
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Wesley Lindamood</title>
+        <meta name="description" content="Wesley Lindamood">
+        <meta name="viewport" content="width=device-width">
+        <link rel="shortcut icon" href="/favicon.ico">
+	
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css">
+</head>	
+    
+<body>
+
+<div id="about">
+
+	<h1><b>Wesley</b> Lindamood</h1>
+	
+	<p>I am a <a href="https://twitter.com/nprdesign">senior interaction designer</a> at NPR, and a <a href="http://letterboxd.com/lindamood/list/recommended-documentaries/">documentary film</a> and <a href="http://www.last.fm/user/constantcurve">music</a> <a href="http://www.rdio.com/people/lindamood/">obsessed</a> dad at home. Drawing upon my background in visual design, journalism and front-end development, I specialize in helping organizations turn user needs and business goals into technically elegant user experiences.</p>
+	
+	<p>I share my thoughts about design and storytelling on <a href="http://twitter.com/lindamood">Twitter</a> and occasionally post images to <a href="http://www.flickr.com/photos/constantcurve/">Flickr</a> and <a href="http://instagram.com/constantcurve/">Instagram</a>.
+	
+	<p>You can learn more about my professional experience on <a href="http://www.linkedin.com/in/lindamood">LinkedIn</a> and explore samples of my work on <a href="http://dribbble.com/lindamood">Dribbble</a> and <a href="https://github.com/lindamood?tab=activity">Github</a>. I've also posted a few of my presentations to <a href="http://www.slideshare.net/w_lindamood/">SlideShare</a>.</p>
+	
+	<p>Someday, I hope that my wife, <a href="http://twitter.com/talkingbird">Laura</a>, and I can return to our neglected letterpress studio, <a href="http://www.knottypinepress.com/blog/">The Knotty Pine Press</a>.</p>
+	
+	<p><a href="mailto:hi@lindamood.org">Get in touch</a> with me.</p>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
+<script type="text/javascript">
+$(function(){
+     $(window).resize(function(){
+         if($(this).width() >= 479){
+             $.backstretch("img/pattern1b.jpg", {speed: 150});
+         }
+      })
+      .resize();//trigger resize on page load
+});
+
+//ga
+var _gaq=[['_setAccount','UA-37280776-1'],['_trackPageview']];
+(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+s.parentNode.insertBefore(g,s)}(document,'script'));
+
+</script>
+</body>	
+</html>

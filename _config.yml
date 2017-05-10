@@ -1,0 +1,33 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Wesley
+tagline:             Lindamood
+url:                 http://lindamood.org
+paginate:            1
+paginate_path: "/blog/page:num/"
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Wesley Lindamood
+  url:               http://lindamood.org
+  email:             wesley@lindamood.org
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/lindamood/lindamood.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

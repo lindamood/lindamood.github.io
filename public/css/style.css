@@ -1,17 +1,17 @@
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-	
+
 		* { padding: 0; margin: 0; }
-		
-		body { 
+
+		body {
 			background-color: #333;
-			background-image: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#000000));  
+			background-image: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#000000));
 			background-image: -webkit-linear-gradient(top, #333333, #000000);
 			background-image: -moz-linear-gradient(top, #333333, #000000);
-			background-image: -o-linear-gradient(top, #333333, #000000); 
+			background-image: -o-linear-gradient(top, #333333, #000000);
 			background-image: linear-gradient(to bottom, #333333, #000000);
 			font-family: 'Montserrat', helvetica, sans-serif;
 			}
-		
+
 		h1 {
 			text-transform: uppercase;
 			color: #9c91ac;
@@ -25,28 +25,28 @@ html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10
 		}
 
 		h1 b {font-size: 71px; letter-spacing:3px; color: #796b8e;}
-		
-		p { 
-			color: #e0e0e0; 
-			font-size: 16px; 
-			line-height: 24px; 
-			margin-bottom: 22px; 
+
+		p {
+			color: #e0e0e0;
+			font-size: 16px;
+			line-height: 24px;
+			margin-bottom: 22px;
 			-webkit-font-smoothing: antialiased;
 			text-shadow: 2px 2px 4px #222;
 			text-align: justify;
 			}
-			
-		#about { 
+
+		#about {
 			width: 335px;
 			padding: 50px 20px;
 		}
-		
+
 		img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
-			
+
 		a { color: #88b8d7; text-decoration: none; }
 		a:visited { color: #88b8d7; }
 		a:hover, a:active { color: #2888b3; outline: 0; }
-		
+
 /*animation*/
 
 .animated {
@@ -61,22 +61,22 @@ html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10
 }
 
 @-webkit-keyframes fadeIn {
-	0% {opacity: 0;}	
+	0% {opacity: 0;}
 	100% {opacity: 1;}
 }
 
 @-moz-keyframes fadeIn {
-	0% {opacity: 0;}	
+	0% {opacity: 0;}
 	100% {opacity: 1;}
 }
 
 @-o-keyframes fadeIn {
-	0% {opacity: 0;}	
+	0% {opacity: 0;}
 	100% {opacity: 1;}
 }
 
 @keyframes fadeIn {
-	0% {opacity: 0;}	
+	0% {opacity: 0;}
 	100% {opacity: 1;}
 }
 
@@ -92,37 +92,37 @@ html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
-	
-	#about { 
+
+	#about {
 			width: 280px;
 		}
-	
+
 	h1 {font-size: 37px;}
 	h1 b {font-size: 58px;}
-			
+
 	}
 
 	/* All Mobile Sizes (devices and browser) */
 	@media only screen and (max-width: 767px) {
 
-		
+
 		h1, h1 b {font-size: 60px; font-weight: bold;}
-		
+
 	}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
-		
+
 		h1, h1 b {font-size: 40px; font-weight: bold;}
 		p {font-size: 14px;}
-		
+
 	}
-		
+
 /* =============================================================================
    Print styles.
    Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
    ========================================================================== */
- 
+
 @media print {
   * { background: transparent; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } /* Black prints faster: sanbeiji.com/archives/953 */
   a, a:visited { color: #444 !important; text-decoration: underline; }

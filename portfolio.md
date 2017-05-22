@@ -48,32 +48,54 @@ thinking beyond the article
 ![Trump Ethics Monitor](/public/img/ethics-monitor-1.jpg "Trump Ethics Monitor")
 
 
+### Product And Platform Design
+user needs, business goals, technical constraints
+
+#### Earbud.fm
+
+![Earbud.fm](/public/img/earbud-1.png "Earbud.fm")
+
+#### NPR.org Responsive Redesign
+
+![NPR.org Responsive Redesign](/public/img/npr-responsive-1.jpg "NPR.org Responsive Redesign")
+
+#### Project Argo
+
+![Project Argo](/public/img/argo-1.png "Project Argo")
+
 
 
 
 ### Sequential visual stories
 when was the last time you loved something on the internet.
 
+#### The Unthinkable
+
+![The Unthinkable](/public/img/unthinkable-2.jpg "The Unthinkable")
+
+
+#### What Does Music Look Like?
+
+![What Does Music Look Like?](/public/img/look-music-1.jpg "What Does Music Look Like?")
+
+
 #### This Is Color
 
-![This Is Color Title Card](/public/img/this-is-color-1.jpg "This Is Color Title Card")
+![This Is Color Title Card](/public/img/this-is-color-3.png "This Is Color Title Card")
 
 A short description of the project. Something along the lines of "this award winning project blah, blah, blah." All the projects will have learn more links and a link to the live project. Some projects will have a blog post explaining the work in greater detail. A behind the scenes making of this project type post.
 
 - learn more
 - view project
 
+
 #### What Do Homeless Veterans Look Like?
 
-![What Do Homeless Veterans Look Like?](/public/img/vets-1.jpg "What Do Homeless Veterans Look Like?")
+![What Do Homeless Veterans Look Like?](/public/img/vets-2.jpg "What Do Homeless Veterans Look Like?")
 
-#### What Does Music Look Like?
 
-![placeholder](http://placehold.it/200x100 "Large example image")
 
-#### The Unthinkable
 
-![placeholder](http://placehold.it/200x100 "Large example image")
 
 
 
@@ -81,21 +103,17 @@ A short description of the project. Something along the lines of "this award win
 ### Audio narratives
 choose a dominant media and augment and enhance it with subordinate media.
 
-#### A Photo I Love
-
-![placeholder](http://placehold.it/200x100 "Large example image")
-
 #### Drowned Out
 
-![placeholder](http://placehold.it/200x100 "Large example image")
+![Drowned Out](/public/img/whales-2.jpg "Drowned Out")
 
 #### Lost And Found: Discover A Black-And-White Era In Full Color
 
-![placeholder](http://placehold.it/200x100 "Large example image")
+![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
 
 #### BoomTown: Five years ago, natural gas drilling came to Towanda, Pennsylvania. The town has never been the same
 
-![placeholder](http://placehold.it/200x100 "Large example image")
+![Boomtown](/public/img/boomtown-1.jpg "Boomtown")
 
 
 
@@ -105,7 +123,7 @@ exploring vr through open standards
 
 #### Stand At The Edge Of Geologic Time
 
-![placeholder](http://placehold.it/200x100 "Large example image")
+![Stand At The Edge Of Geologic Time](/public/img/rocky-mountain-vr-2.jpg "Stand At The Edge Of Geologic Time")
 
 
 
@@ -115,32 +133,11 @@ inverting the standard story template
 
 #### Wolves At The Door
 
-![placeholder](http://placehold.it/200x100 "Large example image")
+![Wolves At The Door](/public/img/wolves-1.jpg "Wolves At The Door")
 
 #### Buzkashi
 
-![placeholder](http://placehold.it/200x100 "Large example image")
-
-
-
-
-
-### Product And Platform Design
-user needs, business goals, technical constraints
-
-#### Project Argo
-
-![placeholder](http://placehold.it/200x100 "Large example image")
-
-#### NPR.org Responsive Redesign
-
-![placeholder](http://placehold.it/200x100 "Large example image")
-
-#### Earbud.fm
-
-![placeholder](http://placehold.it/200x100 "Large example image")
-
-
+![Buzkashi](/public/img/buzkashi-1.jpg "Buzkashi")
 
 
 ## The classics
@@ -149,11 +146,19 @@ Building websites since 1999. A sampling of some of my earlier work.
 ### USA Today
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
+![Toxic Air And America's Schools](/public/img/usat-ta-1.jpg "Toxic Air And America's Schools")
+
 ### Congressional Quarterly
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
+![Congressional Quarterly Home Page Prototype](/public/img/cq-1.jpg "Congressional Quarterly Home Page Prototype")
 
 ### American Chemical Society
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
+![American Chemical Society Redesign](/public/img/acs-1.jpg "American Chemical Society Redesign")
+
 ### My first website
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
+![My first site](/public/img/illation-1.png "my first site")

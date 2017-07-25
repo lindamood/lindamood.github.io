@@ -51,6 +51,7 @@ not just on the web, but of the web
 <div class="small-thumbnails news-design" markdown="1">
 ### News Design
 thinking beyond the article
+
 ![NPR Politics Annotations And Fact Checks](/public/img/fact-check-1.jpg "NPR Politics Annotations And Fact Checks")
 - [NPR Politics Annotations And Fact Checks](#)--
 - [Trump Ethics Monitor](#)-- Has President Trump Kept His Promises?
@@ -89,7 +90,7 @@ when was the last time you loved something on the internet.
 choose a dominant media and augment and enhance it with subordinate media.
 
 ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
-
+![Lost And Found](/public/img/cushman-1.jpg "Lost And Found")
 
 - [Lost And Found](#)-- Discover A Black-And-White Era In Full Color
 - [Drowned Out](#)-- People are noisy and that's bad news for whales.
@@ -100,10 +101,10 @@ choose a dominant media and augment and enhance it with subordinate media.
 
 <div class="small-thumbnails web-vr" markdown="1">
 <h3>WebVR and 360° video</h3>
+
 Exploring vr through open standards
+
 <img src="/public/img/rocky-mountain-vr-1.jpg">
-
-
 
 - [Stand At The Edge Of Geologic Time](#)-- Transport yourself to Rocky Mountain National Park in this immersive geology lesson.
 

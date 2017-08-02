@@ -5,44 +5,39 @@ title: Portfolio
 
 <div class="case-studies" markdown="1">
 ## Case Studies
-A description of how I work.
+From editorial projects to digital products, all the work that I do is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of successful projects.
 
 **Planet Money Makes A T-Shirt**
 ![Planet Money Makes A T-Shirt Title Card](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt Title Card")
-Cross-disciplinary collaboration.
+As the lead designer on this Emmy-award winning interactive documentary, I synthesized the goals of a cross-disciplinary team consisting of reporters, producers, videographers, photographers, designers and developers to create a novel storytelling approach that felt true to the web and needs of the story. From developing the initial content inventory for the project all the way through the launch, this case study describes my role in the project each step of the way.
 
 **Project Argo**
 ![Project Argo](/public/img/argo-1.png "Project Argo")
-Platform Design.
+As the designer on a four person product team tasked with enabling a pilot group of 12 NPR member stations to curate and report on news about specific topics of local interest, I was responsible for the user research, visual design, and front-end development of a WordPress based publishing platform. This case study shares highlights and best practices that I acquired while building and iterating the platform over the course of the two-year initiative.
 
 **This Is Color**
 ![This Is Color](/public/img/this-is-color-1.jpg "color")
-Web-native storytelling.
+Using an editorially-focused Lean UX process that I developed, I took a pitch that the NPR Arts Desk had shared with my team investigating color in society, and developed a highly engaging sequential visual story format that served as a successful format for  multiple NPR Visuals team stories. In this case study, I share my design research methods, and approach to the usability testing of stories that informed the creation of this story.
 
 
 
 </div>
 
 
-
-
-
-
 <div class="small-thumbnails enterprise-stories" markdown="1">
 ## Featured Work
-A brief description of the categories below. My editorial and product design work as been recognized by ... This featured work offers a glimpse of...
 
 
 ### Web Documentaries and enterprise stories
-not just on the web, but of the web
+One way I often describe the enterprise stories that I have worked on is that they are of the web and not just on the web. Consider YouTube, Netflix or Spotify. They are successful services that use the web to deliver media to users in well designed and intuitive interfaces. The media that they deliver are on the web. You can watch a video online or listen to a piece of music online, but the stories these services contain are isolated inside a file type. The most successful enterprise stories that I have been involved in rely upon integrating multiple file types and formats that work in concert to deliver a story as a web-native experience. Listed below are representative sample of enterprise stories I have designed that reflect this approach.
 
 ![Life After Death](/public/img/life-after-death-1.jpg "Life After Death")
-- [Life After Death](#)-- lorem ipsum
-- [Rain Forest Was Here](#)-- lorem ipsum
-- [Planet Money Makes A T-Shirt](#)-- lorem ipsum
-- [Life After Death](#)-- lorem ipsum
-- [Borderland](#)-- lorem ipsum
-- [Refugees In Their Own Country](#)-- lorem ipsum
+- [Life After Death](#)
+- [Rain Forest Was Here](#)
+- [Planet Money Makes A T-Shirt](#)
+- [Life After Death](#)
+- [Borderland](#)
+- [Refugees In Their Own Country](#)
 
 </div>
 <!-- /enterprise-stories-->
@@ -72,22 +67,22 @@ user needs, business goals, technical constraints
 
 <div class="small-thumbnails sequential-stories" markdown="1">
 ### Sequential visual stories
-when was the last time you loved something on the internet.
+Inspired by the thinking behind Robin Sloan’s tap essay Fish, sequential visual stories are self-paced experiences controlled through a minimal interface. Like a slideshow, ideas in sequential visual stories are presented in a linear and visual way—but unlike a slideshow, which treats photography as the dominant element, sequential visual stories mix multiple forms of media. A key advantage of this format over something like a video is that it can present visuals in a narrative way, without sacrificing interactivity, and user control over the pace of the experience.
 
 ![Demolished Title Card](/public/img/demolished-1.jpg "Demolished Title Card")
 
-- [Demolished](#)--
-- [This Is Color](#)-- A short description of the project. Something along the lines of "this award winning project blah, blah, blah." All the projects will have learn more links and a link to the live project. Some projects will have a blog post explaining the work in greater detail. A behind the scenes making of this project type post.
-- [What Do Homeless Veterans Look Like?](#)--
-- [The Unthinkable](#)--
-- [What Does Music Look Like?](#)--
+- [Demolished](#)
+- [This Is Color](#)
+- [What Do Homeless Veterans Look Like?](#)
+- [The Unthinkable](#)
+- [What Does Music Look Like?](#)
 
 </div>
 <!-- /sequential stories-->
 
 <div class="small-thumbnails audio-narratives" markdown="1">
 ### Audio narratives
-choose a dominant media and augment and enhance it with subordinate media.
+Audio narratives are time-based stories told in sound and augmented and enhanced by text and visuals.
 
 ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
 ![Lost And Found](/public/img/cushman-1.jpg "Lost And Found")
@@ -101,7 +96,6 @@ choose a dominant media and augment and enhance it with subordinate media.
 
 <div class="small-thumbnails web-vr" markdown="1">
 <h3>WebVR and 360° video</h3>
-
 Exploring vr through open standards
 
 <img src="/public/img/rocky-mountain-vr-1.jpg">
@@ -113,7 +107,7 @@ Exploring vr through open standards
 
 <div class="small-thumbnails photo-essay" markdown="1">
 ### Photo essays
-Inverting the standard story template
+Photo essays invert the usual relationship between text and image in a scroll-based layout. In lieu of treating photography as a subordinate element of the page, as you would expect in text-focused layout, my approach to photo essays is to make photography the focal point of the layout without sacrificing the intuitive and fluid experience of scrolling through a web page.
 
 ![Wolves At The Door](/public/img/wolves-1.jpg "Wolves At The Door")
 
@@ -123,13 +117,74 @@ Inverting the standard story template
 <!-- /photo-essay -->
 
 
-## Articles and Presentations
-lorem ipsum
+## Articles and Interviews
+- [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
+- [The Evolution Of NPR's Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)
+- [Faces Of NPR: Wes Lindamood](http://www.npr.org/sections/npr-extra/2017/02/27/514291946/faces-of-npr-wes-lindamood)
+- MIT Media Report
+- [Tow Center for Digital Journalism: “Video Now” Report (2014): An interview with Wes Lindamood](https://vimeo.com/89713010/recommended)
+
+## Presentations
+- The Tech Side of Project Argo, Hacks/Hackers 2010
+- Plugins Are Blueprints, WordCamp Boston 2011
+- Web-Native Storytelling, CPH DOX 2012
+- Web-Native Storytelling, Woodstock Digital Media Festival 2013
+- Applying UX Design Thinking To Interactive Documentaries, DC Interactive Documentary Summit 2014
+- The Art of Crossing Boundaries at NPR, SND 2015
+- Producing Documentary For The Web, AFI Docs 2015
+- Design research for editorial projects National College Media Convention 2016
+- Annotating The News At NPR, I Annotate 2017
+
 
 ## Awards
-lorem ipsum
 
+### 2017
+- Data Journalism Awards 2017: The Chartbeat award for the best use of data in a breaking news story, within first 36 hours for Fact Check And Analysis Of The First Presidential Debate
+- SND38 Best of Digital Design: Award of Excellence for Fact Check And Analysis Of The First Presidential Debate, Experimental Design.
 
+### 2016
+- SND37 Best of Digital Design: Silver for Wes Lindamood, Individual Portfolio of Work.
+- SND37 Best of Digital Design: Silver for Rain Forest Was Here, Features: Single-subject project.
+- SND37 Best of Digital Design: Award of Excellence for The Unthinkable, Features: Single-subject project.
+- SND37 Best of Digital Design: Award of Excellence for earbud.fm, Continuous use: section or topic.
+- SND37 Best of Digital Design: Award of Excellence for NPR Visuals, Portfolios: Organization.
+- White House News Photographers Association Multimedia Contest: Second Place for A Brother And Sister In Love, Feature Story.
+- World Press Photo Multimedia Contest: Second Place for Life After Death, immersive storytelling.
+- NPPA Best of Photojournalism Multimedia Contest: First Place for Look At This, Visual Column
+- NPPA Best of Photojournalism Multimedia Contest: Second Place for A Brother And Sister In Love, Feature Story
+- NPPA Quarter Three – Digital Visual Innovation: First Place for Stand At The Edge Of Geologic Time
+- Pictures of the Year International Competition: Award of Excellence for Life After Death, Online News & Issue Story Editing
+
+### 2015
+- Alfred I. duPont-Columbia Awards: Winner for Planet Money Makes A T-Shirt.
+- ONA Online Journalism Awards: Finalist for Life After Death, Topical Reporting, Large.
+- ONA Online Journalism Awards: Finalist for Look At This, Excellence and Innovation in Visual Digital Storytelling, Large.
+- SND36 Best of Digital Design: Gold for Demolished, Features, Single-subject project.
+- SND36 Best of Digital Design: Silver for NPR Visuals, Organization Portfolio.
+- SND36 Best of Digital Design: Award of Excellence for Borderland, Use of Multimedia.
+- White House News Photographers Association Multimedia Contest: Second Place for Borderland, Best Multimedia Package.
+- White House News Photographers Association Multimedia Contest: Third Place for Buzkashi, Sports.
+
+### 2014
+- Gerald Loeb Awards: Planet Money Makes A T-Shirt, Online.
+- International Documentary Association Awards: Planet Money Makes A T-Shirt, Best Short Form Series Award.
+- News & Documentary Emmy Awards: Planet Money Makes A T-Shirt, New Approaches: Documentaries.
+- ONA Online Journalism Awards: Planet Money Makes A T-Shirt, Excellence and Innovation in Visual Digital Storytelling, Large.
+- Overseas Press Club of America Awards: Borderland, Best Multimedia News Presentation.
+- Pictures of the Year International Competition: Planet Money Makes A T-Shirt, Documentary Project of the Year.
+- SND35 Best of Digital Design: Gold for Planet Money Makes A T-Shirt, Single-story project.
+- White House News Photographers Association Multimedia Contest: First Place for Planet Money Makes A T-Shirt, Innovation.
+
+### 2013
+- NPPA Best of Photojournalism Multimedia Contest Honorable Mention for Lost and Found, Multimedia Package.
+- ONA Online Journalism Awards: Finalist for, NPR.org, General Excellence in Online Journalism, Large.
+- Overseas Press Club of America Awards: Planet Money Makes A T-Shirt, Best Multimedia News Presentation.
+- Scripps Howard Awards: Planet Money Makes A T-Shirt, Digital Innovation.
+- SND34 Best of Digital Design: Silver for Lost and Found, Single-story project.
+- SND34 Best of Digital Design: Award of Excellence for Boomtown, Use of Multimedia
+- SPJ Sigma Delta Chi Awards for excellence in journalism: Planet Money Makes A T-Shirt, Specialized Journalism Site.
+- White House News Photographers Association Multimedia Contest: Lost and Found, Best in Show.
+- World Press Photo Multimedia Contest: second place for Lost and Found, Interactive Documentary.
 
 
 <!--

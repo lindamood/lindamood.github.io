@@ -29,7 +29,7 @@ Using an editorially-focused Lean UX process that I developed, I took a pitch th
 
 
 ### Web Documentaries and enterprise stories
-One way I often describe the enterprise stories that I have worked on is that they are of the web and not just on the web. Consider YouTube, Netflix or Spotify. They are successful services that use the web to deliver media to users in well designed and intuitive interfaces. The media that they deliver are on the web. You can watch a video online or listen to a piece of music online, but the stories these services contain are isolated inside a file type. The most successful enterprise stories that I have been involved in rely upon integrating multiple file types and formats that work in concert to deliver a story as a web-native experience. Listed below are representative sample of enterprise stories I have designed that reflect this approach.
+One way I often describe the enterprise stories that I have worked on is that they are of the web and not just on the web. To this day, many stories published online fail to take advantage of the unique strengths of online storytelling. To be of the web it is important that the story’s author go beyond simply using the web as a delivery mechanism. Interactive, sharable, and responsive, the projects featured below combine multiple file types and formats that work in concert to deliver a story as an interactive web-native experience.
 
 ![Life After Death](/public/img/life-after-death-1.jpg "Life After Death")
 - [Life After Death](#)

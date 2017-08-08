@@ -4,43 +4,55 @@ title: Portfolio
 ---
 
 <div class="case-studies" markdown="1">
-## Case Studies
-From editorial projects to digital products, all the work that I do is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of successful projects.
 
-**Planet Money Makes A T-Shirt**
+## Case Studies
+From editorial projects to digital products, all the work that I do is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of different sizes.
+
+**[Leading the design process for an Emmy-award winning interactive documentary](https://apps.npr.org/tshirt/#/title)**
 ![Planet Money Makes A T-Shirt Title Card](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt Title Card")
 As the lead designer on this Emmy-award winning interactive documentary, I synthesized the goals of a cross-disciplinary team consisting of reporters, producers, videographers, photographers, designers and developers to create a novel storytelling approach that felt true to the web and needs of the story. From developing the initial content inventory for the project all the way through the launch, this case study describes my role in the project each step of the way.
 
-**Project Argo**
+**Building a topic-focused blogging platform for a national network of reporters**
 ![Project Argo](/public/img/argo-1.png "Project Argo")
-As the designer on a four person product team tasked with enabling a pilot group of 12 NPR member stations to curate and report on news about specific topics of local interest, I was responsible for the user research, visual design, and front-end development of a WordPress based publishing platform. This case study shares highlights and best practices that I acquired while building and iterating the platform over the course of the two-year initiative.
+As the head of design on a four person product team, I helped build a topic-focused blogging platform for a national network of NPR member station reporters. During the project, I was responsible for user research, visual design, and front-end development of a WordPress based publishing platform. This case study shares highlights and best practices that I acquired while building and iterating the platform over the course of the two-year initiative.
 
-**This Is Color**
-![This Is Color](/public/img/this-is-color-1.jpg "color")
-Using an editorially-focused Lean UX process that I developed, I took a pitch that the NPR Arts Desk had shared with my team investigating color in society, and developed a highly engaging sequential visual story format that served as a successful format for  multiple NPR Visuals team stories. In this case study, I share my design research methods, and approach to the usability testing of stories that informed the creation of this story.
+**Applying UX design thinking to editorial production**
 
-
+[![This Is Color](/public/img/this-is-color-1.jpg)](https://apps.npr.org/lookatthis/posts/colors/)
+Working as an interaction designer in the newsroom provides me with the opportunity to think about how to take best practices from product design and apply them to the work of journalism. In this case study, I share some of my design research methods, my approach to the usability testing of stories, and the way in which I have applied a Lean UX inspired process to editorial work.
 
 </div>
 
+## Featured Work
+Grouped by scale and approach, the work below showcases a range of editorial and product design work that I have played a key role in over the last few years.
 
 <div class="small-thumbnails enterprise-stories" markdown="1">
-## Featured Work
 
 
 ### Web Documentaries and enterprise stories
-One way I often describe the enterprise stories that I have worked on is that they are of the web and not just on the web. To this day, many stories published online fail to take advantage of the unique strengths of online storytelling. To be of the web it is important that the story’s author go beyond simply using the web as a delivery mechanism. Interactive, sharable, and responsive, the projects featured below combine multiple file types and formats that work in concert to deliver a story as an interactive web-native experience.
+One way I often describe the enterprise stories that I have worked on is that they are _not just on the web but of the web_. To this day, many stories published online fail to take advantage of the unique strengths of online storytelling. To be of the web, it is important that the story’s author go beyond simply using the web as a delivery mechanism. The interactive, sharable, and responsive projects featured below combine multiple file types and formats that work in concert to deliver a story as an interactive web-native experience.
 
 ![Life After Death](/public/img/life-after-death-1.jpg "Life After Death")
-- [Life After Death](#)
-- [Rain Forest Was Here](#)
-- [Planet Money Makes A T-Shirt](#)
-- [Life After Death](#)
-- [Borderland](#)
-- [Refugees In Their Own Country](#)
+- [Life After Death](http://apps.npr.org/life-after-death/)
+- [Rain Forest Was Here](http://apps.npr.org/lookatthis/posts/brazil/)
+- [Planet Money Makes A T-Shirt](https://apps.npr.org/tshirt/)
+- [Borderland](https://apps.npr.org/borderland/)
+- [Refugees In Their Own Country](https://apps.npr.org/idp-georgia/irakli.html)
 
 </div>
 <!-- /enterprise-stories-->
+
+<div class="small-thumbnails product-design" markdown="1">
+### Product And Platform Design
+Adept at both strategy and execution, I am a product designer that excels at hypothesis driven design; a design approach that prioritizes the close collaboration of a multidisciplinary team to build, measure, and learn in an iterative way. In the work below, I played a key role in synthesizing user needs and business goals to develop technically elegant design solutions.
+
+![Earbud.fm](/public/img/earbud-1.png "Earbud.fm")
+
+- [Earbud.fm](http://earbud.fm/)--
+- [NPR.org Responsive Redesign](http://www.npr.org/)--
+- [Project Argo](http://argoproject.org/)--
+</div>
+<!-- /product-design-->
 
 
 <div class="small-thumbnails news-design" markdown="1">
@@ -48,34 +60,22 @@ One way I often describe the enterprise stories that I have worked on is that th
 thinking beyond the article
 
 ![NPR Politics Annotations And Fact Checks](/public/img/fact-check-1.jpg "NPR Politics Annotations And Fact Checks")
-- [NPR Politics Annotations And Fact Checks](#)--
-- [Trump Ethics Monitor](#)-- Has President Trump Kept His Promises?
+- [NPR Politics Annotations And Fact Checks](http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate)--
+- [Trump Ethics Monitor](http://www.npr.org/2017/02/17/513724796/trump-ethics-monitor-has-the-president-kept-his-promises)-- Has President Trump Kept His Promises?
 </div>
 <!-- /news-design-->
 
-<div class="small-thumbnails product-design" markdown="1">
-### Product And Platform Design
-user needs, business goals, technical constraints
-
-![Earbud.fm](/public/img/earbud-1.png "Earbud.fm")
-
-- [Earbud.fm](#)--
-- [NPR.org Responsive Redesign](#)--
-- [Project Argo](#)--
-</div>
-<!-- /product-design-->
-
 <div class="small-thumbnails sequential-stories" markdown="1">
 ### Sequential visual stories
-Inspired by the thinking behind Robin Sloan’s tap essay Fish, sequential visual stories are self-paced experiences controlled through a minimal interface. Like a slideshow, ideas in sequential visual stories are presented in a linear and visual way—but unlike a slideshow, which treats photography as the dominant element, sequential visual stories mix multiple forms of media. A key advantage of this format over something like a video is that it can present visuals in a narrative way, without sacrificing interactivity, and user control over the pace of the experience.
+Sequential visual stories mix multiple forms of media together into a highly visual experience that works beautifully across all breakpoints and devices. I developed this design approach as a way of presenting visuals in a narrative way, without sacrificing interactivity, and user control over the pace of the experience.
 
 ![Demolished Title Card](/public/img/demolished-1.jpg "Demolished Title Card")
 
-- [Demolished](#)
-- [This Is Color](#)
-- [What Do Homeless Veterans Look Like?](#)
-- [The Unthinkable](#)
-- [What Does Music Look Like?](#)
+- [Demolished](https://apps.npr.org/lookatthis/posts/publichousing/)
+- [This Is Color](https://apps.npr.org/lookatthis/posts/colors/)
+- [What Do Homeless Veterans Look Like?](https://apps.npr.org/lookatthis/posts/veterans/)
+- [The Unthinkable](https://apps.npr.org/lookatthis/posts/yemen/)
+- [What Does Music Look Like?](https://apps.npr.org/lookatthis/posts/album-art/)
 
 </div>
 <!-- /sequential stories-->
@@ -87,9 +87,9 @@ Audio narratives are time-based stories told in sound and augmented and enhanced
 ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
 ![Lost And Found](/public/img/cushman-1.jpg "Lost And Found")
 
-- [Lost And Found](#)-- Discover A Black-And-White Era In Full Color
-- [Drowned Out](#)-- People are noisy and that's bad news for whales.
-- [Boomtown](#)-- Five years ago, natural gas drilling came to Towanda, Pennsylvania. The town has never been the same
+- [Lost And Found](http://www.npr.org/news/specials/2012/cushman/)-- Discover A Black-And-White Era In Full Color.
+- [Drowned Out](https://apps.npr.org/lookatthis/posts/whales/)-- People are noisy and that's bad news for whales.
+- [Boomtown](https://stateimpact.npr.org/pennsylvania/boomtown/)-- Five years ago, natural gas drilling came to Towanda, Pennsylvania. The town has never been the same.
 </div>
 <!-- /audio-narratives-->
 
@@ -100,19 +100,19 @@ Exploring vr through open standards
 
 <img src="/public/img/rocky-mountain-vr-1.jpg">
 
-- [Stand At The Edge Of Geologic Time](#)-- Transport yourself to Rocky Mountain National Park in this immersive geology lesson.
+- [Stand At The Edge Of Geologic Time](http://apps.npr.org/rockymountain-vr/)-- Transport yourself to Rocky Mountain National Park in this immersive 360° geology lesson.
 
 </div>
 <!-- /web-vr-->
 
 <div class="small-thumbnails photo-essay" markdown="1">
 ### Photo essays
-Photo essays invert the usual relationship between text and image in a scroll-based layout. In lieu of treating photography as a subordinate element of the page, as you would expect in text-focused layout, my approach to photo essays is to make photography the focal point of the layout without sacrificing the intuitive and fluid experience of scrolling through a web page.
+In lieu of treating photography as a subordinate element of the page, as you would expect in text-focused layout, my approach to photo essays is to make photography the focal point of the layout without sacrificing the intuitive and fluid experience of scrolling through a web page.
 
 ![Wolves At The Door](/public/img/wolves-1.jpg "Wolves At The Door")
 
-- [Wolves At The Door](#)-- Can two top predators coexist in the American West?
-- [Buzkashi](#)-- Afghanistan's national sport is like polo, with a headless goat.
+- [Wolves At The Door](http://apps.npr.org/wolves/)-- Can two top predators coexist in the American West?
+- [Buzkashi](https://apps.npr.org/buzkashi/)-- Afghanistan's national sport is like polo, with a headless goat.
 </div>
 <!-- /photo-essay -->
 

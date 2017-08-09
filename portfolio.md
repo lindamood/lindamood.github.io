@@ -6,7 +6,7 @@ title: Portfolio
 <div class="case-studies" markdown="1">
 
 ## Case Studies
-From editorial projects to digital products, all the work that I do is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of different sizes.
+From editorial projects to digital products, my work is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of different sizes.
 
 **[Leading the design process for an Emmy-award winning interactive documentary](https://apps.npr.org/tshirt/#/title)**
 ![Planet Money Makes A T-Shirt Title Card](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt Title Card")
@@ -44,7 +44,7 @@ One way I often describe the enterprise stories that I have worked on is that th
 
 <div class="small-thumbnails product-design" markdown="1">
 ### Product And Platform Design
-Adept at both strategy and execution, I am a product designer that excels at hypothesis driven design; a design approach that prioritizes the close collaboration of a multidisciplinary team to build, measure, and learn in an iterative way. In the work below, I played a key role in synthesizing user needs and business goals to develop technically elegant design solutions.
+I am a designer that excels at hypothesis driven design; a design approach that prioritizes the close collaboration of a multidisciplinary team to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and execution using a hypothesis driven design approach.
 
 ![Earbud.fm](/public/img/earbud-1.png "Earbud.fm")
 
@@ -57,7 +57,7 @@ Adept at both strategy and execution, I am a product designer that excels at hyp
 
 <div class="small-thumbnails news-design" markdown="1">
 ### News Design
-thinking beyond the article
+As a journalist with a background in information architecture, I believe that content should drive the form of the experience, and not the other way around. Just because most journalism is written in an incremental article format does not mean that that is the optimal format for all news and information. By starting with user needs, and an understanding of the underlying structure of the news, it is possible to develop better approaches. In the following examples, I share instances in which I have played a lead design role in projects that successfully go beyond the article format.
 
 ![NPR Politics Annotations And Fact Checks](/public/img/fact-check-1.jpg "NPR Politics Annotations And Fact Checks")
 - [NPR Politics Annotations And Fact Checks](http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate)--
@@ -82,7 +82,9 @@ Sequential visual stories mix multiple forms of media together into a highly vis
 
 <div class="small-thumbnails audio-narratives" markdown="1">
 ### Audio narratives
-Audio narratives are time-based stories told in sound and augmented and enhanced by text and visuals.
+Stories that combine multiple forms of media can come across as distracting (two forms of media with conflicting goals that are competing for attention) or disjointed (media sidebars that feel detached from the primary experience). By choosing a dominant media type and integrating it with subordinate media, it is possible to combat these ills and achieve an immersive experience that is greater than the sum of its parts.
+
+The following audio-driven stories 
 
 ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
 ![Lost And Found](/public/img/cushman-1.jpg "Lost And Found")
@@ -117,11 +119,13 @@ In lieu of treating photography as a subordinate element of the page, as you wou
 <!-- /photo-essay -->
 
 
-## Articles and Interviews
+## Articles
 - [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
 - [The Evolution Of NPR's Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)
+
+##Interviews
 - [Faces Of NPR: Wes Lindamood](http://www.npr.org/sections/npr-extra/2017/02/27/514291946/faces-of-npr-wes-lindamood)
-- MIT Media Report
+- [MIT Open Documentary Lab: Mapping the Intersection of Two Cultures: Interactive Documentary and Digital Journalism](http://opendoclab.mit.edu/interactivejournalism/)
 - [Tow Center for Digital Journalism: “Video Now” Report (2014): An interview with Wes Lindamood](https://vimeo.com/89713010/recommended)
 
 ## Presentations

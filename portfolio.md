@@ -8,15 +8,16 @@ title: Portfolio
 ## Case Studies
 From editorial projects to digital products, my work is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of different sizes.
 
-**[Leading the design process for an Emmy-award winning interactive documentary](https://apps.npr.org/tshirt/#/title)**
+#### [Leading the design process for an Emmy-award winning interactive documentary](https://apps.npr.org/tshirt/#/title)
+
 ![Planet Money Makes A T-Shirt Title Card](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt Title Card")
 As the lead designer on this Emmy-award winning interactive documentary, I synthesized the goals of a cross-disciplinary team consisting of reporters, producers, videographers, photographers, designers and developers to create a novel storytelling approach that felt true to the web and needs of the story. From developing the initial content inventory for the project all the way through the launch, this case study describes my role in the project each step of the way.
 
-**Building a topic-focused blogging platform for a national network of reporters**
+#### Building a topic-focused blogging platform for a national network of reporters
 ![Project Argo](/public/img/argo-1.png "Project Argo")
 As the head of design on a four person product team, I helped build a topic-focused blogging platform for a national network of NPR member station reporters. During the project, I was responsible for user research, visual design, and front-end development of a WordPress based publishing platform. This case study shares highlights and best practices that I acquired while building and iterating the platform over the course of the two-year initiative.
 
-**Applying UX design thinking to editorial production**
+#### Applying UX design thinking to editorial production
 
 [![This Is Color](/public/img/this-is-color-1.jpg)](https://apps.npr.org/lookatthis/posts/colors/)
 Working as an interaction designer in the newsroom provides me with the opportunity to think about how to take best practices from product design and apply them to the work of journalism. In this case study, I share some of my design research methods, my approach to the usability testing of stories, and the way in which I have applied a Lean UX inspired process to editorial work.
@@ -84,7 +85,7 @@ Sequential visual stories mix multiple forms of media together into a highly vis
 ### Audio narratives
 Stories that combine multiple forms of media can come across as distracting (two forms of media with conflicting goals that are competing for attention) or disjointed (media sidebars that feel detached from the primary experience). By choosing a dominant media type and integrating it with subordinate media, it is possible to combat these ills and achieve an immersive experience that is greater than the sum of its parts.
 
-The following audio-driven stories 
+The following audio-driven stories
 
 ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
 ![Lost And Found](/public/img/cushman-1.jpg "Lost And Found")
@@ -123,7 +124,7 @@ In lieu of treating photography as a subordinate element of the page, as you wou
 - [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
 - [The Evolution Of NPR's Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)
 
-##Interviews
+## Interviews
 - [Faces Of NPR: Wes Lindamood](http://www.npr.org/sections/npr-extra/2017/02/27/514291946/faces-of-npr-wes-lindamood)
 - [MIT Open Documentary Lab: Mapping the Intersection of Two Cultures: Interactive Documentary and Digital Journalism](http://opendoclab.mit.edu/interactivejournalism/)
 - [Tow Center for Digital Journalism: “Video Now” Report (2014): An interview with Wes Lindamood](https://vimeo.com/89713010/recommended)

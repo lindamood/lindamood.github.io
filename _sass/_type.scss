@@ -6,27 +6,31 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.25;
-  color: #313131;
+  color: $body-color;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
   font-size: 2rem;
+  font-weight: normal;
 }
 
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  font-weight: normal;
 }
 
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  font-weight: normal;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
+  font-weight: normal;
 }
 
 p {
@@ -35,7 +39,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  // color: #303030;
 }
 
 ul, ol, dl {

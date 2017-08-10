@@ -6,7 +6,7 @@ title: Portfolio
 <div class="case-studies" markdown="1">
 
 ## Case Studies
-From editorial projects to digital products, my work is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared understanding on my team of how the problem we are trying to solve satisfies user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of different sizes.
+From editorial projects to digital products, my work is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared of user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of large and small.
 
 #### [Leading the design process for an Emmy-award winning interactive documentary](https://apps.npr.org/tshirt/#/title)
 

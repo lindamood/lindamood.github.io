@@ -1,21 +1,7 @@
 ---
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
+# temporarily putting base portfolio styles here
 ---
-
-//
-//                        ___
-//                       /\_ \
-//  _____     ___     ___\//\ \      __
-// /\ '__`\  / __`\  / __`\\ \ \   /'__`\
-// \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
-//  \ \ ,__/\ \____/\ \____//\____\ \____\
-//   \ \ \/  \/___/  \/___/ \/____/\/____/
-//    \ \_\
-//     \/_/
-//
-// Designed, built, and released under MIT license by @mdo. Learn more at
-// https://github.com/poole/poole.
 
 @import "variables";
 @import "et-book";
@@ -35,43 +21,42 @@
 
 //portfolio
 
-.page {
+.portfolio {
+
+    h1 {font-size: 8rem;}
 
     li {
         list-style-type: none;
         margin-bottom: 1em;
     }
-}
-.case-studies {
-    padding-top: 1em;
-    border-top: 1px solid #ccc;
+
+    .case-studies {
+        padding-top: 1em;
+        border-top: 1px solid #ccc;
 
 
 
-    img {
-            max-width: 250px;
+        img {
+                max-width: 250px;
 
-    }
-}
-
-
-.small-thumbnails {
-    margin-top: 4em;
-    padding-top: 1em;
-    border-top: 1px solid #ccc;
-
-
-
-
-    img {
-            max-width: 250px;
-            margin-top: 1em;
-            margin-right: .4em;
-            float: left;
-            box-shadow: 2px 2px 2px #aaa;
+        }
     }
 
-    ul {
-        clear: both;
+
+    .small-thumbnails {
+        margin-top: 4em;
+        padding-top: 1em;
+        border-top: 1px solid #ccc;
+
+        img {
+                max-width: 250px;
+                margin-top: 1em;
+                margin-right: .4em;
+                float: left;
+        }
+
+        ul {
+            clear: both;
+        }
     }
 }

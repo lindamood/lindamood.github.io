@@ -2,8 +2,11 @@
 layout: page
 title: Portfolio
 ---
+<div class="portfolio" markdown="1">
 
 <div class="case-studies" markdown="1">
+
+<h1 class="page-title">{{ page.title }}</h1>
 
 ## Case Studies
 From editorial projects to digital products, my work is informed by an extensive background in user-centered design. Regardless of the thing that I am making, my approach can be traced back to a strong desire to build a shared of user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of large and small.
@@ -191,6 +194,7 @@ In lieu of treating photography as a subordinate element of the page, as you wou
 - White House News Photographers Association Multimedia Contest: Lost and Found, Best in Show.
 - World Press Photo Multimedia Contest: second place for Lost and Found, Interactive Documentary.
 
+</div> <!-- portfolio -->
 
 <!--
 ## The classics

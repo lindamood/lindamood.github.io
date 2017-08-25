@@ -4,6 +4,7 @@ title: Portfolio
 ---
 <div class="portfolio" markdown="1">
 
+<!--
 <div class="case-studies" markdown="1">
 
 <h1 class="page-title">{{ page.title }}</h1>
@@ -26,7 +27,9 @@ As the head of design on a four person product team, I helped build a topic-focu
 Working as an interaction designer in the newsroom provides me with the opportunity to think about how to take best practices from product design and apply them to the work of journalism. In this case study, I share some of my design research methods, my approach to the usability testing of stories, and the way in which I have applied a Lean UX inspired process to editorial work.
 
 </div>
+-->
 
+<!--
 ## Featured Work
 Grouped by scale and approach, the work below showcases a range of editorial and product design work that I have played a key role in over the last few years.
 
@@ -44,8 +47,9 @@ One way I often describe the enterprise stories that I have worked on is that th
 - [Refugees In Their Own Country](https://apps.npr.org/idp-georgia/irakli.html)
 
 </div>
-<!-- /enterprise-stories-->
+-->
 
+<!--
 <div class="small-thumbnails product-design" markdown="1">
 ### Product And Platform Design
 I am a designer that excels at hypothesis driven design; a design approach that prioritizes the close collaboration of a multidisciplinary team to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and execution using a hypothesis driven design approach.
@@ -56,9 +60,9 @@ I am a designer that excels at hypothesis driven design; a design approach that 
 - [NPR.org Responsive Redesign](http://www.npr.org/)--
 - [Project Argo](http://argoproject.org/)--
 </div>
-<!-- /product-design-->
+-->
 
-
+<!--
 <div class="small-thumbnails news-design" markdown="1">
 ### News Design
 As a journalist with a background in information architecture, I believe that content should drive the form of the experience, and not the other way around. Just because most journalism is written in an incremental article format does not mean that that is the optimal format for all news and information. By starting with user needs, and an understanding of the underlying structure of the news, it is possible to develop better approaches. In the following examples, I share instances in which I have played a lead design role in projects that successfully go beyond the article format.
@@ -67,8 +71,9 @@ As a journalist with a background in information architecture, I believe that co
 - [NPR Politics Annotations And Fact Checks](http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate)--
 - [Trump Ethics Monitor](http://www.npr.org/2017/02/17/513724796/trump-ethics-monitor-has-the-president-kept-his-promises)-- Has President Trump Kept His Promises?
 </div>
-<!-- /news-design-->
+-->
 
+<!--
 <div class="small-thumbnails sequential-stories" markdown="1">
 ### Sequential visual stories
 Sequential visual stories mix multiple forms of media together into a highly visual experience that works beautifully across all breakpoints and devices. I developed this design approach as a way of presenting visuals in a narrative way, without sacrificing interactivity, and user control over the pace of the experience.
@@ -82,8 +87,9 @@ Sequential visual stories mix multiple forms of media together into a highly vis
 - [What Does Music Look Like?](https://apps.npr.org/lookatthis/posts/album-art/)
 
 </div>
-<!-- /sequential stories-->
+-->
 
+<!--
 <div class="small-thumbnails audio-narratives" markdown="1">
 ### Audio narratives
 Stories that combine multiple forms of media can come across as distracting (two forms of media with conflicting goals that are competing for attention) or disjointed (media sidebars that feel detached from the primary experience). By choosing a dominant media type and integrating it with subordinate media, it is possible to combat these ills and achieve an immersive experience that is greater than the sum of its parts.
@@ -97,9 +103,9 @@ The following audio-driven stories
 - [Drowned Out](https://apps.npr.org/lookatthis/posts/whales/)-- People are noisy and that's bad news for whales.
 - [Boomtown](https://stateimpact.npr.org/pennsylvania/boomtown/)-- Five years ago, natural gas drilling came to Towanda, Pennsylvania. The town has never been the same.
 </div>
-<!-- /audio-narratives-->
+-->
 
-
+<!--
 <div class="small-thumbnails web-vr" markdown="1">
 <h3>WebVR and 360° video</h3>
 Exploring vr through open standards
@@ -109,8 +115,9 @@ Exploring vr through open standards
 - [Stand At The Edge Of Geologic Time](http://apps.npr.org/rockymountain-vr/)-- Transport yourself to Rocky Mountain National Park in this immersive 360° geology lesson.
 
 </div>
-<!-- /web-vr-->
+-->
 
+<!--
 <div class="small-thumbnails photo-essay" markdown="1">
 ### Photo essays
 In lieu of treating photography as a subordinate element of the page, as you would expect in text-focused layout, my approach to photo essays is to make photography the focal point of the layout without sacrificing the intuitive and fluid experience of scrolling through a web page.
@@ -120,8 +127,7 @@ In lieu of treating photography as a subordinate element of the page, as you wou
 - [Wolves At The Door](http://apps.npr.org/wolves/)-- Can two top predators coexist in the American West?
 - [Buzkashi](https://apps.npr.org/buzkashi/)-- Afghanistan's national sport is like polo, with a headless goat.
 </div>
-<!-- /photo-essay -->
-
+-->
 
 ## Articles
 - [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)

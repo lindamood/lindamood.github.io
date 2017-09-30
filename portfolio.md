@@ -122,13 +122,13 @@ To create engaging online audio storytelling, I believe that visuals need to be 
 
 ![Wolves At The Door](/public/img/wolves-1.jpg "Wolves At The Door")
 ### Photo essays
-I feel incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photographer as talented as David Gilkey. He trusted us with his work, which allowed us to design experiences that went beyond treating the photos as individual elements on a page.
+<!-- I feel incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photographer as talented as David Gilkey. He trusted us with his work, which allowed us to design experiences that went beyond treating the photos as individual elements on a page.
 
 My goal in the design of these photo essays was to create a unified story experience that reflected the same editorial intention we found in the photography.
 
 Instead of treating photography and text as separate elements I strove to
 
-was to accentuate the focus the photography by treating text as a supporting element for a story told with photography. As a unified experience I strove to imbue the layout with the same editorial intention that we found in the photography.
+was to accentuate the focus the photography by treating text as a supporting element for a story told with photography. As a unified experience I strove to imbue the layout with the same editorial intention that we found in the photography. -->
 
 
 

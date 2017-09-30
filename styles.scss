@@ -4,6 +4,7 @@
 ---
 
 @import "variables";
+@import "fonts";
 @import "et-book";
 @import "base";
 @import "type";
@@ -20,14 +21,32 @@
 }
 
 //portfolio
+.portfolio-intro {
+    background-color: #222;
+    height: 5rem;
+}
 
 .portfolio {
 
+    div {margin-top: 3rem;}
+
     h1 {font-size: 8rem;}
 
+    h3 {margin-top: 1rem;}
+
+    p {
+        font-size: .8rem;
+        line-height: 1.5;
+    }
+
     li {
-        list-style-type: none;
-        margin-bottom: 1em;
+        font-size: .8rem;
+        margin-bottom: 0;
+
+        p {
+            line-height: 1;
+            margin: 0;
+        }
     }
 
     .case-studies {

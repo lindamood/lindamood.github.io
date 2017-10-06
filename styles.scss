@@ -30,6 +30,7 @@
     h3 {
         margin: 0;
         padding: 1rem 0;
+        font-weight: normal;
 
         a {
             text-decoration: none;
@@ -70,9 +71,9 @@
         font-style: italic;
     }
 
-    a {
-        color: #6670b9;
-    }
+    a { color: #2888b3;}
+    a:visited { color: #2888b3; }
+    a:hover, a:active { color: #88b8d7;}
 
     ul {
         padding: 0;

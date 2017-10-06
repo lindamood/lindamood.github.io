@@ -136,7 +136,7 @@ While the traditional article format can be an effective way to convey news and 
 </a>
 
 ### Sequential visual stories
-Sequential visual stories are full-screen tappable experiences that mix multiple forms of media together to form a slide based linear story. I have honed my use of this design approach as a way of presenting visual experiences in an immersive way across all breakpoints and devices. The sequential approach of presenting ideas one slide at a time provides the benefit of editorial control over the rhythm of the experience, without sacrificing interactivity or the ability for the user to maintain control over the pace of the experience.
+Sequential visual stories are full-screen tappable experiences that mix multiple forms of media together to form a slide based linear story. I have honed my use of this design approach as a way of presenting visual experiences in an immersive way across all breakpoints and devices. The sequential approach of presenting ideas one slide at a time provides the benefit of editorial control over the rhythm of the narrative, without sacrificing interactivity or the ability for the user to maintain control over the pace of the experience.
 
 <ul>
     <li>
@@ -222,13 +222,11 @@ To create engaging online audio storytelling, I believe that visuals need to be 
 </a>
 
 ### Photo essays
-<!-- I feel incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photographer as talented as David Gilkey. He trusted us with his work, which allowed us to design experiences that went beyond treating the photos as isolated elements on a page.
+I feel incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photographer as talented as David Gilkey. He trusted us with his work, which allowed us to design experiences that went beyond treating his photography as isolated elements on the page.
 
-My goal in the design of these photo essays was to create a unified story experience that reflected the same editorial intention we found in the photography.
+My goal in the design of these photo essays was to create a unified story experience that reflected the same editorial intention we found in his photography.
 
-Instead of treating photography and text as separate elements I strove to create a photo-driven narrative in which tightly integrated text provided the connection between scenes.
-
-was to accentuate the focus the photography by treating text as a supporting element for a story told with photography. As a unified experience I strove to imbue the layout with the same editorial intention that we found in the photography. -->
+Instead of treating photography and text as separate elements, I strive to create photo-driven narratives in which tightly integrated text provides the connection between scenes. The success of these photo essays rests in the ability of the text and interface to get out of the way of the photography, and let the powerful images speak for themselves.
 
 <ul>
     <li>
@@ -257,7 +255,9 @@ was to accentuate the focus the photography by treating text as a supporting ele
 
 
 <h3>WebVR and binaural audio</h3>
-Exploring vr through open standards
+Using web technology to build virtual reality projects offers exciting possibilities. Unlike building a VR project as an app for a specific platform like Oculus Rift, using an open specification like WebVR lowers the barrier to experiencing a story in virtual reality. From HTC Vive to Daydream to Google Cardboard, or just a standard web browser, WebVR projects work across platforms and devices.
+
+As a designer and developer, I’m a big believer in open standards and have benefited greatly from knowledge shared in the open source community. When it came time to build an immersive story about geology, and the sights and sounds of Rocky Mountain National park told with binaural audio and 360° images, I prioritized building the story in an open way.
 
 <ul>
     <li>
@@ -275,6 +275,7 @@ Exploring vr through open standards
 <a href="https://source.opennews.org/articles/evolution-nprs-picture-stories/">
 ![Picture Story Ecosystem](/public/img/picture-story-ecosystem.png "Picture Story Ecosystem")
 </a>
+<h6 class="caption">A diagram illustrating the iterative growth and development of visual story formats that I've worked on. I created the diagram for an <a href="https://source.opennews.org/articles/evolution-nprs-picture-stories/">article in Source</a> about the evolution of NPR's picture stories.</h6>
 
 ## Articles
 - [The Evolution Of NPR's Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)

@@ -3,159 +3,282 @@ layout: page
 title: Portfolio
 ---
 <div class="portfolio-intro" markdown="1">
-
+<h3><a href="/">Wesley Lindamood</a></h3>
 </div>
 
 
 <article class="page portfolio" markdown="1">
-
-
-<div class="case-studies" markdown="1">
-
-<p class="page-title">{{ page.title }}</p>
-
-## Case Studies
-From editorial projects to digital products, my work is informed by an extensive background in user-centered design. Regardless of the thing that I am making, it is my goal to help the teams I work with align project goals with user needs. The case studies below provide detailed examples of how I have applied a user-centered design process to the research, design, and development of projects of large and small.
-
-#### [Leading the design process for an Emmy-award winning interactive documentary](https://apps.npr.org/tshirt/#/title)
-
-<!-- ![Planet Money Makes A T-Shirt Title Card](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt Title Card") -->
-As the lead designer on this Emmy-award winning interactive documentary, I synthesized the goals of a cross-disciplinary team consisting of reporters, producers, videographers, photographers, designers and developers to create a novel storytelling approach that felt true to the web and needs of the story. From developing the initial content inventory for the project all the way through the launch, this case study describes my role in the project each step of the way.
-
-#### Voice platform user research
-I lead a user research study designed to provide NPR with insight into user attitudes and behaviors related to NPR content on smart speaker platforms like Alexa, Amazon's voice assistant.
-
-#### Building a topic-focused blogging platform for a national network of reporters
-<!-- ![Project Argo](/public/img/argo-1.png "Project Argo") -->
-As the head of design on a four person product team, I helped build a topic-focused blogging platform for a national network of NPR member station reporters. During the project, I was responsible for user research, visual design, and front-end development of a WordPress based publishing platform. This case study shares highlights and best practices that I acquired while building and iterating the platform over the course of the two-year initiative.
-
-#### Applying UX design thinking to editorial production
-
-<!-- [![This Is Color](/public/img/this-is-color-1.jpg)](https://apps.npr.org/lookatthis/posts/colors/) -->
-Working as an interaction designer in the newsroom provides me with the opportunity to think about how to take best practices from product design and apply them to the work of journalism. In this case study, I share some of my design research methods, my approach to the usability testing of stories, and the way in which I have applied a Lean UX inspired process to editorial work.
-
-</div>
-
-
-
-## Featured Work
-The work below showcases a range of editorial and product design work that I have played a key role in over the last few years.
+# Portfolio
+From UX and editorial strategy to visual design and front-end development, the work below showcases a range of editorial and product design work that I have played a key role in over the last few years.
 
 <div class="enterprise-stories" markdown="1">
 
+<a href="http://apps.npr.org/tshirt/#/title">
+ ![Planet Money Makes A T-Shirt](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt")
+ </a>
 
 ### Web Documentaries and enterprise stories
 One way I often describe the enterprise stories that I have worked on is that they are _not just on the web but of the web_. To this day, many stories published online fail to take advantage of the unique strengths of online storytelling. To be of the web, it is important that the story’s author go beyond simply using the web as a delivery mechanism. The interactive, sharable, and responsive projects featured below combine multiple file types and formats that work in concert to deliver a story as an interactive web-native experience.
 
-<!-- ![Life After Death](/public/img/life-after-death-1.jpg "Life After Death") -->
-
-- [Life After Death](http://apps.npr.org/life-after-death/)
-- [Rain Forest Was Here](http://apps.npr.org/lookatthis/posts/brazil/)
-- [Planet Money Makes A T-Shirt](https://apps.npr.org/tshirt/)
-- [Borderland](https://apps.npr.org/borderland/)
-- [Refugees In Their Own Country](https://apps.npr.org/idp-georgia/irakli.html)
+<ul>
+    <li>
+        <h4>
+            <a href="http://apps.npr.org/life-after-death/">Life After Death</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/barkedu">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="http://apps.npr.org/lookatthis/posts/brazil/">Rain Forest Was Here</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/brazil">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/tshirt/">Planet Money Makes A T-Shirt</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/tshirt">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/borderland/">Borderland</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/borders-map">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/idp-georgia/irakli.html">Refugees In Their Own Country</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/idp-georgia">GitHub repository</a></p>
+    </li>
+</ul>
 
 </div>
 
 
 
 <div class="product-design" markdown="1">
-### Product And Platform Design
-I am a designer that excels at hypothesis driven design. I love working with multidisciplinary teams to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and execution using a hypothesis driven design approach.
+<a href="http://argoproject.org/">
+ ![Project Argo](/public/img/argo-1.png "Project Argo")
+ </a>
 
-- [Building a Alexa custom skill for NPR](#)--
-- [Earbud.fm](http://earbud.fm/)--
-- [NPR.org Responsive Redesign](http://www.npr.org/)--
-- [Project Argo](http://argoproject.org/)--
+### Product And Platform Design
+I am a designer that excels at hypothesis driven design. I love working with multidisciplinary teams to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and design on a multidisciplinary product team.
+
+<!-- - [Building a Alexa custom skill for NPR](#)-- -->
+<ul>
+    <li>
+        <h4>
+            <a href="http://earbud.fm/">Earbud.fm</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/best-songs-2015/">NPR Music: Songs We Love 2015</a>
+        </h4>
+        <p><b>Role:</b> design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/bestsongs15/">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="http://www.npr.org/">NPR.org responsive redesign</a>
+        </h4>
+        <p><b>Role:</b> strategy, design.</p>
+    </li>
+    <li>
+        <h4>
+            <a href="http://argoproject.org/">Project Argo</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/argoproject">GitHub repository</a></p>
+    </li>
+</ul>
+
 </div>
 
 
 
 <div class="news-design" markdown="1">
+<a href="http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate">
+ ![Fact Check And Full Transcript Of The Final 2016 Presidential Debate](/public/img/fact-check-1.jpg "Fact Check And Full Transcript Of The Final 2016 Presidential Debate")
+ </a>
+
 ### News Design
 While the traditional article format can be an effective way to convey news and information, I believe it is important to let the content drive the form of the experience. Through an understanding of user needs and editorial goals, it is possible to think beyond the article, and develop design solutions tailored to the unique needs of a given context. In the following examples, I share instances in which I have played a lead design role in presenting news content in new and innovative ways.
 
-
-
-<!-- ![NPR Politics Annotations And Fact Checks](/public/img/fact-check-1.jpg "NPR Politics Annotations And Fact Checks") -->
-
-- [NPR Politics Annotations And Fact Checks](http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate)--
-- [Trump Ethics Monitor](http://www.npr.org/2017/02/17/513724796/trump-ethics-monitor-has-the-president-kept-his-promises)-- Has President Trump Kept His Promises?
+<ul>
+    <li>
+        <h4>
+            <a href="http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate">NPR Politics Annotations And Fact Checks</a>
+        </h4>
+        <p><b>Role:</b> strategy, design.</p>
+    </li>
+    <li>
+        <h4>
+            <a href="http://www.npr.org/2017/02/17/513724796/trump-ethics-monitor-has-the-president-kept-his-promises">Trump Ethics Monitor</a>
+        </h4>
+        <p><b>Role:</b> strategy, design.</p>
+    </li>
+</ul>
 </div>
 
 
 
 <div class="sequential-stories" markdown="1">
+<a href="https://apps.npr.org/lookatthis/posts/publichousing/">
 ![Demolished Title Card](/public/img/demolished-1.jpg "Demolished Title Card")
+</a>
 
 ### Sequential visual stories
-Sequential visual stories are full-screen tappable experiences that mix multiple forms of media together to form a slide based linear story. I have honed my use of this design approach as a way of presenting visual experiences in an immersive way across all breakpoints and devices. Like video, the sequential approach of presenting ideas one slide at a time provides the benefit of editorial control over the rhythm of the experience. Added benefits of this approach are that it provides the opportunity to incorporate interactivity into the flow of the story, and the ability for the user to maintain control over the pace of the experience.
+Sequential visual stories are full-screen tappable experiences that mix multiple forms of media together to form a slide based linear story. I have honed my use of this design approach as a way of presenting visual experiences in an immersive way across all breakpoints and devices. The sequential approach of presenting ideas one slide at a time provides the benefit of editorial control over the rhythm of the experience, without sacrificing interactivity or the ability for the user to maintain control over the pace of the experience.
 
-
-
-- [Demolished](https://apps.npr.org/lookatthis/posts/publichousing/)
-- [This Is Color](https://apps.npr.org/lookatthis/posts/colors/)
-- [What Do Homeless Veterans Look Like?](https://apps.npr.org/lookatthis/posts/veterans/)
-- [The Unthinkable](https://apps.npr.org/lookatthis/posts/yemen/)
-- [What Does Music Look Like?](https://apps.npr.org/lookatthis/posts/album-art/)
-
+<ul>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/lookatthis/posts/publichousing/">Demolished</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/patricia-evans">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/lookatthis/posts/colors/">This Is Color</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/colors">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/lookatthis/posts/veterans/">What Do Homeless Veterans Look Like?</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/veterans">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/lookatthis/posts/yemen/">The Unthinkable</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/yemen">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/lookatthis/posts/album-art/">What Does Music Look Like?</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/new-music">GitHub repository</a></p>
+    </li>
+</ul>
 </div>
 
 
 
 <div class="audio-narratives" markdown="1">
+<a href="http://www.npr.org/news/specials/2012/cushman/">
+![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
+</a>
+
 ### Audio narratives
 Finding ways to present engaging audio storytelling online is challenging. The web is a screen based medium that has a visual bias. When presented online, it is not uncommon for audio stories to be converted to text, transformed into a video, or offered up as a download. This is unfortunate. Telling stories with sound is incredibly powerful, and can work well online if done in the right way.
 
-To create engaging online audio storytelling, I believe that visuals need to be tightly integrated into the flow of the story, but not in a way that overpowers the sound. When building audio-driven experiences for the web, my goal is to augment and enhance the sound with subordinate visuals that encourage focused listening. **The following stories are an expression of that desire.**
+To create engaging online audio storytelling, I believe that visuals need to be tightly integrated into the flow of the story, but not in a way that overpowers the sound. When building audio-driven experiences for the web, my goal is to augment and enhance the sound with subordinate visuals that encourage focused listening. The following stories are an expression of that desire.
 
-<!-- ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
-![Lost And Found](/public/img/cushman-1.jpg "Lost And Found") -->
-
-- [Lost And Found](http://www.npr.org/news/specials/2012/cushman/)-- Discover A Black-And-White Era In Full Color.
-- [Drowned Out](https://apps.npr.org/lookatthis/posts/whales/)-- People are noisy and that's bad news for whales.
-- [Boomtown](https://stateimpact.npr.org/pennsylvania/boomtown/)-- Five years ago, natural gas drilling came to Towanda, Pennsylvania. The town has never been the same.
+<ul>
+    <li>
+        <h4>
+            <a href="http://www.npr.org/news/specials/2012/cushman/">Lost And Found</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/npr/cushman">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/lookatthis/posts/whales/">Drowned Out</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/chris-clark">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://stateimpact.npr.org/pennsylvania/boomtown/">Boomtown</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/stateimpact/boomtown">GitHub repository</a></p>
+    </li>
+</ul>
 </div>
 
 
 <div class="photo-essay" markdown="1">
 
+<a href="http://apps.npr.org/wolves/">
 ![Wolves At The Door](/public/img/wolves-1.jpg "Wolves At The Door")
+</a>
+
 ### Photo essays
-<!-- I feel incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photographer as talented as David Gilkey. He trusted us with his work, which allowed us to design experiences that went beyond treating the photos as individual elements on a page.
+<!-- I feel incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photographer as talented as David Gilkey. He trusted us with his work, which allowed us to design experiences that went beyond treating the photos as isolated elements on a page.
 
 My goal in the design of these photo essays was to create a unified story experience that reflected the same editorial intention we found in the photography.
 
-Instead of treating photography and text as separate elements I strove to
+Instead of treating photography and text as separate elements I strove to create a photo-driven narrative in which tightly integrated text provided the connection between scenes.
 
 was to accentuate the focus the photography by treating text as a supporting element for a story told with photography. As a unified experience I strove to imbue the layout with the same editorial intention that we found in the photography. -->
 
-
-
-
-- [Wolves At The Door](http://apps.npr.org/wolves/)-- Can two top predators coexist in the American West?
-
-- [Buzkashi](https://apps.npr.org/buzkashi/)-- Afghanistan's national sport is like polo, with a headless goat.
+<ul>
+    <li>
+        <h4>
+            <a href="http://apps.npr.org/wolves/">Wolves At The Door</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/wolves">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
+            <a href="https://apps.npr.org/buzkashi/">Buzkashi</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/buzkashi">GitHub repository</a></p>
+    </li>
+</ul>
 </div>
 
 
 
 <div class="web-vr" markdown="1">
-<img src="/public/img/rocky-mountain-vr-1.jpg">
+<a href="http://apps.npr.org/rockymountain-vr/">
+![Stand At The Edge Of Geologic Time](/public/img/rocky-mountain-vr-1.jpg "Stand At The Edge Of Geologic Time")
+</a>
 
-<h3>WebVR and 360° video</h3>
+
+<h3>WebVR and binaural audio</h3>
 Exploring vr through open standards
 
-
-
-- [Stand At The Edge Of Geologic Time](http://apps.npr.org/rockymountain-vr/)-- Transport yourself to Rocky Mountain National Park in this immersive 360° geology lesson.
+<ul>
+    <li>
+        <h4>
+            <a href="http://apps.npr.org/rockymountain-vr/">Stand At The Edge Of Geologic Time</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/rockymountain">GitHub repository</a></p>
+    </li>
+</ul>
 
 </div>
 
 <div class="portfolio-articles" markdown="1">
+<a href="https://source.opennews.org/articles/evolution-nprs-picture-stories/">
+![Picture Story Ecosystem](/public/img/picture-story-ecosystem.png "Picture Story Ecosystem")
+</a>
+
 ## Articles
-- [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
 - [The Evolution Of NPR's Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)
+- [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
 </div>
 
 <div class="portfolio-interviews" markdown="1">
@@ -168,15 +291,15 @@ Exploring vr through open standards
 <div class="portfolio-presentations" markdown="1">
 ## Presentations
 <!-- - Smart Speaker User Research Findings, NPR/WAMU Digital Day 2017 -->
-- Annotating The News At NPR, I Annotate 2017
-- Design research for editorial projects National College Media Convention 2016
-- Producing Documentary For The Web, AFI Docs 2015
-- The Art of Crossing Boundaries at NPR, SND 2015
-- Applying UX Design Thinking To Interactive Documentaries, DC Interactive Documentary Summit 2014
-- Web-Native Storytelling, Woodstock Digital Media Festival 2013
-- Web-Native Storytelling, CPH DOX 2012
-- Plugins Are Blueprints, WordCamp Boston 2011
-- The Tech Side of Project Argo, Hacks/Hackers 2010
+- [Annotating The News At NPR, I Annotate 2017](https://docs.google.com/presentation/d/15DzJ6EuCkc5IOF9Hb9cFWqP95SqYjYniYGGMSrtzvsw/edit?usp=sharing)
+- [Design research for editorial projects National College Media Convention 2016](https://docs.google.com/presentation/d/10hibvuqa4zHtcINstgOHUPoHiinDdIWW8opNnsvuxIs/edit?usp=sharing)
+- [Producing Documentary For The Web, AFI Docs 2015](https://docs.google.com/presentation/d/1IFSUyFa5uso3nL-cYdr4LtNOU-fHJii7hhvgPJyoUsU/edit?usp=sharing)
+- [The Art of Crossing Boundaries at NPR, SND 2015](https://docs.google.com/presentation/d/1CJcQbNcN8LFNjG6_VpYHgbspLTdZGbVrR5MdcTVNRis/edit?usp=sharing)
+- [Applying UX Design Thinking To Interactive Documentaries, DC Interactive Documentary Summit 2014](https://docs.google.com/presentation/d/1nML1xVqG_ngt3wNdd5MneppPmWk3wa-R0Ix6dLQNMIM/edit?usp=sharing)
+- [Web-Native Storytelling, Woodstock Digital Media Festival 2013](https://docs.google.com/presentation/d/1wRPO-Om8-HIDe0h45iCaobzI0xHi77AAcSygRNffO50/edit?usp=sharing)
+- [Web-Native Storytelling, CPH DOX 2012](https://www.slideshare.net/w_lindamood/webnative-storytelling)
+- [Plugins Are Blueprints, WordCamp Boston 2011](https://www.slideshare.net/w_lindamood/plugins-are-blueprints-8674086)
+- [The Tech Side of Project Argo, Hacks/Hackers 2010](https://www.slideshare.net/w_lindamood/the-tech-side-of-project-argo)
 </div>
 
 <div class="portfolio-awards" markdown="1">

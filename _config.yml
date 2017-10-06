@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Wesley
-tagline:             Lindamood
+title:               Wesley Lindamood
+tagline:             
 url:                 http://lindamood.org
 paginate:            1
 paginate_path: "/blog/page:num/"

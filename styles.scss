@@ -23,59 +23,77 @@
 //portfolio
 .portfolio-intro {
     background-color: #222;
-    height: 5rem;
+    min-height: 5rem;
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
+
+    h3 {
+        margin: 0;
+        padding: 1rem 0;
+
+        a {
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #796b8e;
+            text-shadow: 2px 2px 4px #000;
+            font-weight: normal;
+            font-size: 2rem;
+            display: block;;
+            letter-spacing: 1px;
+
+    		}
+    }
+
 }
 
 .portfolio {
 
     div {margin-top: 3rem;}
 
-    h1 {font-size: 8rem;}
+    h1 {
+        font-size: 2rem;
+        text-transform: uppercase;
+    }
 
     h3 {margin-top: 1rem;}
 
     p {
         font-size: .8rem;
         line-height: 1.5;
+        color: #666;
     }
 
-    li {
-        font-size: .8rem;
-        margin-bottom: 0;
+    a {
+        color: #6670b9;
+    }
 
-        p {
-            line-height: 1;
-            margin: 0;
+    ul {
+        padding: 0;
+
+        li {
+            color: #666;
+            font-size: .8rem;
+            margin: 0 0 1rem 0;
+            padding: 0;
+            list-style-type: none;
+
+            h4 {
+                font-size: .9rem;
+                margin: 0;
+            }
+
+            p {
+                display: block;
+                font-size: .7rem;
+                margin: 0;
+
+                b {
+                    font-weight: normal;
+                }
+            }
         }
     }
 
-    .case-studies {
-        padding-top: 1em;
-        border-top: 1px solid #ccc;
 
 
-
-        img {
-                max-width: 250px;
-
-        }
-    }
-
-
-    .small-thumbnails {
-        margin-top: 4em;
-        padding-top: 1em;
-        border-top: 1px solid #ccc;
-
-        img {
-                max-width: 250px;
-                margin-top: 1em;
-                margin-right: .4em;
-                float: left;
-        }
-
-        ul {
-            clear: both;
-        }
-    }
 }

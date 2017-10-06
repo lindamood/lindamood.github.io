@@ -17,7 +17,7 @@ From UX and editorial strategy to visual design and front-end development, the w
  ![Planet Money Makes A T-Shirt](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt")
  </a>
 
-### Web Documentaries and enterprise stories
+### Web documentaries and enterprise stories
 One way I often describe the enterprise stories that I have worked on is that they are _not just on the web but of the web_. To this day, many stories published online fail to take advantage of the unique strengths of online storytelling. To be of the web, it is important that the story’s author go beyond simply using the web as a delivery mechanism. The interactive, sharable, and responsive projects featured below combine multiple file types and formats that work in concert to deliver a story as an interactive web-native experience.
 
 <ul>
@@ -67,7 +67,7 @@ One way I often describe the enterprise stories that I have worked on is that th
  ![Project Argo](/public/img/argo-1.png "Project Argo")
  </a>
 
-### Product And Platform Design
+### Product and platform design
 I am a designer that excels at hypothesis driven design. I love working with multidisciplinary teams to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and design on a multidisciplinary product team.
 
 <!-- - [Building a Alexa custom skill for NPR](#)-- -->
@@ -109,7 +109,7 @@ I am a designer that excels at hypothesis driven design. I love working with mul
  ![Fact Check And Full Transcript Of The Final 2016 Presidential Debate](/public/img/fact-check-1.jpg "Fact Check And Full Transcript Of The Final 2016 Presidential Debate")
  </a>
 
-### News Design
+### News design
 While the traditional article format can be an effective way to convey news and information, I believe it is important to let the content drive the form of the experience. Through an understanding of user needs and editorial goals, it is possible to think beyond the article, and develop design solutions tailored to the unique needs of a given context. In the following examples, I share instances in which I have played a lead design role in presenting news content in new and innovative ways.
 
 <ul>

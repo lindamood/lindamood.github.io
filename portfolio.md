@@ -9,7 +9,7 @@ title: Portfolio
 
 <article class="page portfolio" markdown="1">
 # Portfolio
-From UX and editorial strategy to visual design and front-end development, the work below showcases a range of editorial and product design work that I have played a key role in over the last few years.
+From user experience and editorial strategy to visual design and front-end development, the work below showcases a range of editorial and product design work that I have played a key role in over the last few years.
 
 <div class="enterprise-stories" markdown="1">
 

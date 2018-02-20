@@ -18,7 +18,7 @@ From UX and editorial strategy to visual design and front-end development, the w
  </a>
 
 ### Web documentaries and enterprise stories
-One way I often describe the enterprise stories that I have worked on is that they are _not just on the web but of the web_. To this day, many stories published online fail to take advantage of the unique strengths of online storytelling. To be of the web, it is important that the story’s author go beyond simply using the web as a delivery mechanism. The interactive, sharable, and responsive projects featured below demonstrate how multiple file types and formats can work in concert to deliver stories as interactive web-native experiences.
+One way I often describe the enterprise stories that I have worked on is that they are _not just on the web but of the web_. To be of the web, it is important to go beyond simply using the web as a delivery mechanism, and focus on the shareable, responsive, and interactive qualities of the platform that make it unique. The projects featured below demonstrate how multiple file types and formats can work in concert to deliver stories as interactive web-native experiences.
 
 <ul>
     <li>

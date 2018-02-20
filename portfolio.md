@@ -14,7 +14,7 @@ From UX and editorial strategy to visual design and front-end development, the w
 <div class="enterprise-stories" markdown="1">
 
 <a href="http://apps.npr.org/tshirt/#/title">
- ![Planet Money Makes A T-Shirt](/public/img/tshirt-1.jpg "Planet Money Makes A T-Shirt")
+ ![Planet Money Makes A T-Shirt](/public/img/tshirt.jpg "Planet Money Makes A T-Shirt")
  </a>
 
 ### Web documentaries and enterprise stories
@@ -68,7 +68,7 @@ One way I often describe the enterprise stories that I have worked on is that th
  </a>
 
 ### Product and platform design
-I am a designer that excels at hypothesis driven design. I love working with multidisciplinary teams to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and design on a multidisciplinary product team.
+I am a designer that excels at hypothesis-driven design. I love working with multidisciplinary teams to build, measure, and learn in an iterative way. The work below showcases a few of the products in which I have played a lead role in both strategy and design on a multidisciplinary product team.
 
 <!-- - [Building a Alexa custom skill for NPR](#)-- -->
 <ul>

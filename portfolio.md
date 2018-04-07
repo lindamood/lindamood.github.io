@@ -23,6 +23,13 @@ One way I often describe the enterprise stories that I have worked on is that th
 <ul>
     <li>
         <h4>
+            <a href="https://apps.npr.org/tshirt/">Planet Money Makes A T-Shirt</a>
+        </h4>
+        <p><b>Role:</b> strategy, design, front-end development.</p>
+        <p><a href="https://github.com/nprapps/tshirt">GitHub repository</a></p>
+    </li>
+    <li>
+        <h4>
             <a href="http://apps.npr.org/life-after-death/">Life After Death</a>
         </h4>
         <p><b>Role:</b> strategy, design, front-end development.</p>
@@ -34,13 +41,6 @@ One way I often describe the enterprise stories that I have worked on is that th
         </h4>
         <p><b>Role:</b> strategy, design, front-end development.</p>
         <p><a href="https://github.com/nprapps/lookatthis/tree/master/posts/brazil">GitHub repository</a></p>
-    </li>
-    <li>
-        <h4>
-            <a href="https://apps.npr.org/tshirt/">Planet Money Makes A T-Shirt</a>
-        </h4>
-        <p><b>Role:</b> strategy, design, front-end development.</p>
-        <p><a href="https://github.com/nprapps/tshirt">GitHub repository</a></p>
     </li>
     <li>
         <h4>
@@ -63,8 +63,8 @@ One way I often describe the enterprise stories that I have worked on is that th
 
 
 <div class="product-design" markdown="1">
-<a href="http://argoproject.org/">
- ![Project Argo](/public/img/argo-1.png "Project Argo")
+<a href="http://earbud.fm/">
+ ![Project Argo](/public/img/earbud-1.png "earbud.fm")
  </a>
 
 ### Product and platform design

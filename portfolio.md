@@ -280,6 +280,7 @@ As a designer and developer, I’m a big believer in open standards and have ben
 ## Articles
 - [The Evolution Of NPR's Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)
 - [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
+- [Take our playbook: NPR’s guide to building immersive storytelling projects](https://training.npr.org/2018/06/25/take-our-playbook-nprs-guide-to-building-immersive-storytelling-projects/)
 </div>
 
 <div class="portfolio-interviews" markdown="1">
@@ -291,6 +292,7 @@ As a designer and developer, I’m a big believer in open standards and have ben
 
 <div class="portfolio-presentations" markdown="1">
 ## Presentations
+- [Everything Old is New Again, Museums and the Web 2019](https://mw19.mwconf.org/paper/everything-old-is-new-again/)
 <!-- - Smart Speaker User Research Findings, NPR/WAMU Digital Day 2017 -->
 - [Annotating The News At NPR, I Annotate 2017](https://docs.google.com/presentation/d/15DzJ6EuCkc5IOF9Hb9cFWqP95SqYjYniYGGMSrtzvsw/edit?usp=sharing)
 - [Design research for editorial projects National College Media Convention 2016](https://docs.google.com/presentation/d/10hibvuqa4zHtcINstgOHUPoHiinDdIWW8opNnsvuxIs/edit?usp=sharing)

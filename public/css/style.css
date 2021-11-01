@@ -33,7 +33,6 @@ html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10
 			margin-bottom: 22px;
 			-webkit-font-smoothing: antialiased;
 			text-shadow: 2px 2px 4px #222;
-			text-align: justify;
 			}
 
 		#about {

@@ -180,7 +180,7 @@ Sequential visual stories are full-screen tappable experiences that mix multiple
 
 
 <div class="audio-narratives" markdown="1">
-<a href="http://www.npr.org/news/specials/2012/cushman/">
+<a href="https://apps.npr.org/cushman-lost-and-found">
 ![Lost And Found](/public/img/cushman-2.jpg "Lost And Found")
 </a>
 

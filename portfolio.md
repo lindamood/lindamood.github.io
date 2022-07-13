@@ -192,7 +192,7 @@ To create engaging online audio storytelling, I believe that visuals need to be 
 <ul>
     <li>
         <h4>
-            <a href="http://www.npr.org/news/specials/2012/cushman/">Lost And Found</a>
+            <a href="https://apps.npr.org/cushman-lost-and-found">Lost And Found</a>
         </h4>
         <p><b>Role:</b> strategy, design, front-end development.</p>
         <p><a href="https://github.com/npr/cushman">GitHub repository</a></p>

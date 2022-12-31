@@ -8,6 +8,8 @@
 layout: home
 ---
 
+# An accomplished design leader with a proven track record in user experience design and front-end development. 
+
 ![A portrait of Wesley Lindamood from 2022](/assets/images/wes-portrait-2022.jpg)
 
 ## Hi, I'm Wes 👋

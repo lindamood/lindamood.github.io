@@ -1,0 +1,39 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+h1 {
+    line-height: 1.3;
+}
+
+#work-highlights {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 4px solid #eeeeee;
+}
+
+.work-highlight {
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #eee;
+
+    img {
+        box-shadow: 8px 4px 16px -2px #dddddd;
+    }
+    @media screen and (min-width: $on-medium) {
+        display: flex;
+
+        .work-highlight-description, .work-highlight-thumbnail {
+            flex: 1;
+        }
+
+        .work-highlight-description {
+            margin-right: 40px;
+        }
+
+        img {
+            margin-top: 1em;
+        }
+  }
+  
+}
+

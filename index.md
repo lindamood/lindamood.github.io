@@ -30,14 +30,12 @@ Outside of work, I am a long-distance runner, documentary film nerd, and music o
 
 <div class="work-highlight">
 
-<div class="work-highlight-description">
+<div class="work-highlight-description" markdown="1">
 
 <h3>Library of Congress</h3>
 <p>I started working at the Library of Congress in January of 2020. In my current role, I lead user experience research and design activities for a multiyear U.S. Copyright Office modernization initiative. In this role, I work as a lead UX designer on an agile scrum team responsible for the development of a new copyright registration system, and work with UX and software development colleagues on the management and maintenance of a design system used by all Enterprise Copyright System applications.</p>
 
-{% comment %}
-<p><a href="#">Learn more about my work at the Library of Congress.</a></p>
-{% endcomment %}
+**[Learn more about my work at the Library of Congress](/loc/)**
 
 </div>
 
@@ -46,7 +44,7 @@ Outside of work, I am a long-distance runner, documentary film nerd, and music o
 <img src="/assets/images/registration-7-26-21.jpg" alt="A screenshot of a Copyright Registration System prototype">
 
 <figcaption>
-Screenshot of a Figma prototype that I built to gather feedback from U.S. Copyright Office Registration System users on potential design approaches. Highlights from our research activities were shared with the public during a <a href="https://www.copyright.gov/copyright-modernization/webinar/">July 26, 2021 Copyright Modernization webinar</a>.
+Screenshot of a Figma prototype that I built to gather feedback from U.S. Copyright Office Registration System users on potential design approaches. Highlights from our research activities were shared with the public during a <a href="https://www.copyright.gov/copyright-modernization/webinar/slides/july-2021.pdf">July 26, 2021 Copyright Modernization webinar</a>.
 </figcaption>
 
 </figure>
@@ -55,11 +53,11 @@ Screenshot of a Figma prototype that I built to gather feedback from U.S. Copyri
 
 <div class="work-highlight">
 
-<div class="work-highlight-description">
+<div class="work-highlight-description" markdown="1">
 <h3>United States Holocaust Memorial Museum</h3>
 <p>I was a design and user experience manager at the United States Holocaust Memorial Museum from July 2018 to December 2019. During my time at the museum, I supported user research and digital strategy activities while managing a team of designers and software developers responsible for the creation of digital products, museum exhibitions, and multilingual educational resources.</p>
 
-
+**[Learn more about my work at the United States Holocaust Memorial Museum](/ushmm/)**
 </div>
 
 <figure class="work-highlight-thumbnail" markdown="1">
@@ -73,9 +71,11 @@ A screenshot of the main museum website, <a href="https://www.ushmm.org">ushmm.o
 
 <div class="work-highlight">
 
-<div class="work-highlight-description">
+<div class="work-highlight-description" markdown="1">
 <h3>NPR Visuals Team</h3>
-<p>The <a href="https://blog.apps.npr.org">NPR Visuals team</a> includes photographers, videographers, coders, and designers that collaborate with reporters and editors on digital projects the NPR newsroom. I was a senior interaction designer on the team from August 2013 to July 2018. In my role, I was responsible for research, reporting, information architecture, visual design, front-end development, usability testing, and training that helped colleagues apply best practices from user experience design to the work of digital journalism.</p>
+<p>The <a href="https://blog.apps.npr.org">NPR Visuals team</a> includes photographers, videographers, coders, and designers that collaborate with reporters and editors on digital projects in the NPR newsroom. I was a senior interaction designer on the team from August 2013 to July 2018. In this role, I was responsible for research, reporting, information architecture, visual design, front-end development, usability testing, and training that helped colleagues apply best practices from user experience design to the work of digital journalism.</p>
+
+**[Learn more about my work on the NPR Visuals team](/npr-visuals/)**
 
 </div>
 

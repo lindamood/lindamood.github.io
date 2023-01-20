@@ -24,7 +24,9 @@ I am currently a senior user experience designer at the [Library of Congress](ht
 
 Outside of work, I am a long-distance runner, documentary film nerd, and music-obsessed dad who occasionally shares thoughts about design and technology on <a rel="me" href="https://mastodon.social/@lindamood">Mastodon</a>.
 
-**[Get in touch with me 📧](mailto:hi@lindamood.org)**
+**[Download my resume](https://docs.google.com/document/d/1FcBSlj61WpNN-7Au4l1fnyCZ4RtwNeqRGP00XS6Eb-8/export?format=pdf)** (PDF)
+
+**[Get in touch with me](mailto:hi@lindamood.org)**
 
 ## Work highlights
 

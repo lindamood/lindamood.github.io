@@ -4,7 +4,7 @@ title: Library of Congress work highlights
 permalink: /loc/
 ---
 
-As a senior user experience designer at the Library of Congress I am responsible for user research, strategy, product design, and interaction design. Listed below are some examples that showcase my experience in these areas.
+As a senior user experience designer at the Library of Congress I am responsible for user research, strategy, product design, and interaction design. Below are some examples that showcase my experience in these areas.
 
 ## Strategic planning and user needs analysis for the copyright registration system
 
@@ -41,9 +41,9 @@ A screenshot from a <a href="https://www.copyright.gov/copyright-modernization/w
 
 The current copyright registration system includes several applications that have historically been difficult for applicants to complete. Errors on applications lead to delays in registration decisions, increased correspondence with the Copyright Office, and rejected registration applications. To reduce application errors and the need for correspondence, my team needed to gain a better understanding of common problems that applicants face.
 
-I worked with Copyright Office leadership and the registration development team to create a <a href="https://www.oreilly.com/library/view/lean-ux/9781449366834/">Lean UX</a>-informed user research plan that we could incorporate into our agile development sprints. I have managed all aspects of research and testing for the project including: defining test goals; recruiting and screening test participants; writing test scripts; documenting test logistics; scheduling participant interviews; moderating remote research interviews; preparing findings reports; and presenting research findings.
+I worked with Copyright Office leadership and the registration development team to create a <a href="https://www.oreilly.com/library/view/lean-ux/9781449366834/">Lean UX</a>-informed user research plan that we could incorporate into our agile development sprints. I managed all aspects of research and testing for the project including: defining test goals; recruiting and screening test participants; writing test scripts; documenting test logistics; scheduling participant interviews; moderating remote research interviews; preparing findings reports; and presenting research findings.
 
-The research and testing that I have conducted has consisted of remote, moderated research interviews, usability testing (using prototypes that I built in Figma and Sketch), card sorting exercises, and surveys.
+The research and testing that I conducted has consisted of remote, moderated research interviews, usability testing (using prototypes I built in Figma and Sketch), card sorting exercises, and surveys.
 
 My research has helped the team build shared understanding of approaches for improving the user experience of high priority areas of the registration system. In addition to providing valuable guidance for feature development, highlights from my research have been shared with the public and Library leadership as major project accomplishments. I was invited to present the research to the Register of Copyrights and the Copyright Management Council in April 2021, and the Librarian of Congress and other Library leaders in June 2021. 
 
@@ -58,7 +58,7 @@ Registration system designs are built using design system components shared by a
 
 ### A user-centered approach to feature development
 
-Before we begin development of a registration system feature, I lead discovery activities to build a shared understanding of how a feature will support user needs, and function in performant and accessible way. After there is agreement on approach, I create detailed design, content, and accessibility specifications in Figma and Confluence, and collaborate with business analysts to write testable user stories in Jira that can be referenced by QA and software developers. During development, I support feature delivery by providing design and code review. 
+Before we begin development of a registration system feature, I lead discovery activities to build a shared understanding of how a feature will support user needs, and function in a performant and accessible way. After there is agreement on approach, I create detailed design, content, and accessibility specifications in Figma and Confluence, and collaborate with business analysts to write testable user stories in Jira that can be referenced by QA and software developers. During development, I support feature delivery by providing design and code review. 
 
 ### Collaborating on a design system
 

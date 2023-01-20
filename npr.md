@@ -4,7 +4,7 @@ title: NPR Visuals team work highlights
 permalink: /npr-visuals/
 ---
 
-While NPR produces much more than radio programming these days, it is still known to many as National Public Radio. I've always thought that working as a designer for an organization historically known for audio presented me with a unique opportunity. Unlike other news organizations with a long history of visual journalism in print, the rules for how to tell a story visually at NPR were not well established. This gave me and my colleagues on the NPR Visuals team the freedom to work without preconceived notions, and develop new approaches to visual journalism and digital storytelling.
+While NPR produces much more than radio programming these days, it is still known to many as National Public Radio. I've always thought that working as a designer for an organization historically known for audio presented a unique opportunity. Unlike other news organizations with a long history of visual journalism in print, the rules for how to tell a story visually at NPR were not well established. This gave me and my colleagues on the NPR Visuals team the freedom to work without preconceived notions and develop new approaches to visual journalism and digital storytelling.
 
 As a senior interaction designer on the team, I applied user experience design best practices to the work of story planning, production, design, and development in the NPR newsroom.
 
@@ -22,14 +22,13 @@ An overview of the stages in a Hypothesis-Driven Design project. While timelines
 
 To help teams plan and work on large and complex reporting projects, I wrote a detailed guide titled [Hypothesis-Driven Design for Editorial Projects](https://n.pr/hdd) that explains the approach I used at NPR to apply user experience design techniques to digital journalism.
 
-
 Starting with identifying the goals for a story and proceeding through planning, designing, testing, and launch, the guide offers step-by-step instructions and downloadable templates that can be used by teams to facilitate collaboration throughout the story development process. From advice on leading assumptions meetings, to templates that can be used in group sketching sessions, the guide provides a framework and materials that support a user-centered approach to the planning and testing of stories.
 
 [Published by the NPR Training team](https://training.npr.org/2018/06/25/take-our-playbook-nprs-guide-to-building-immersive-storytelling-projects/) for use throughout the NPR network, the guide has gained broad interest inside and outside NPR, and continues to serve as a reference for my former team. 
 
 ## Web documentaries and enterprise stories
 
-One way I often describe the enterprise stories that I have worked on is that they are not just on the web but of the web. To be of the web, it is important to go beyond simply using the web as a delivery mechanism, and focus on the shareable, responsive, and interactive qualities of the platform that make it unique. The projects featured below demonstrate how multiple file types and formats can work in concert to deliver stories as interactive web-native experiences.
+I often describe the enterprise stories that I have worked on as not  just *on* the web but *of* the web. To be of the web, it is important to go beyond simply using the web as a delivery mechanism, and focus on the shareable, responsive, and interactive qualities of the platform that make it unique. The projects featured below demonstrate how multiple file types and formats can work in concert to deliver stories as interactive web-native experiences.
 
 [<img src="/assets/images/npr-ebola.png" alt="A screenshot of the title card for the an enterprise story titled Life After Death about the aftermath of Ebola in Liberia">](https://apps.npr.org/life-after-death/)
 
@@ -82,7 +81,7 @@ While the traditional article format can be an effective way to convey news and 
 
 ## Sequential visual stories
 
-Sequential visual stories are full-screen tappable experiences that mix multiple forms of media together to form a slide based linear story. I have honed my use of this design approach as a way of presenting visual experiences in a responsive and interactive way. The sequential approach of presenting ideas one slide at a time provides the benefit of maintaining editorial control over the rhythm of the narrative, without sacrificing interactivity or the ability for the user to control the pace of the experience.
+Sequential visual stories are full-screen tappable experiences that mix multiple forms of media together to form a slide-based linear story. I have honed my use of this design approach as a way of presenting visual experiences in a responsive and interactive way. The sequential approach of presenting ideas one slide at a time provides the benefit of maintaining editorial control over the rhythm of the narrative, without sacrificing interactivity or the ability for the user to control the pace of the experience.
 
 [<img src="/assets/images/npr-demolished.jpg" alt="A screenshot of the title card for a story titled Demolished about public housing in Chicago.">](https://apps.npr.org/lookatthis/posts/publichousing/)
 
@@ -108,7 +107,7 @@ Sequential visual stories are full-screen tappable experiences that mix multiple
 
 ## Audio narratives
 
-Finding ways to present engaging audio storytelling online is challenging. The web is a screen based medium that has a visual bias. When presented online, it is not uncommon for audio stories to be converted to text, transformed into a video, or offered up as a download. This is unfortunate. Telling stories with sound is incredibly powerful, and can work well online if done in the right way.
+Finding ways to present engaging audio storytelling online is challenging. The web is a screen-based medium with a visual bias. When presented online, it is not uncommon for audio stories to be converted to text, transformed into a video, or offered up as a download. This is unfortunate. Telling stories with sound is incredibly powerful and can work well online if done in the right way.
 
 To create engaging online audio storytelling, I believe that visuals need to be tightly integrated into the flow of the story, but not in a way that overpowers the sound. When building audio-driven experiences for the web, my goal is to augment and enhance the sound with subordinate visuals that encourage focused listening. The following stories are an expression of that desire.
 
@@ -128,7 +127,7 @@ To create engaging online audio storytelling, I believe that visuals need to be 
 
 ## Photo essays
 
-I was incredibly lucky to have had the opportunity to work on the design of a number of photo essays with a photojournalist as talented as David Gilkey. He trusted the Visuals team with his work, which allowed us to design experiences that went beyond treating his photography as isolated elements on the page.
+I was incredibly lucky to have the opportunity to work on the design of several photo essays with a photojournalist as talented as the late David Gilkey. He trusted the Visuals team with his work, which allowed us to design experiences that went beyond treating photography as isolated elements on the page.
 
 My goal in the design of these photo essays was to create a unified story experience that reflected the same editorial intention found in his photography.
 

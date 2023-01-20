@@ -16,13 +16,13 @@ layout: home
 
 Over the course of my career, I have been a design manager, UX researcher, product designer, information architect, user experience designer, interaction designer, front-end developer, art director, graphic designer, photographer, and teacher.
 
-A common thread that you will find in all of my work is desire to understand underlying systems and structures. I gravitate toward research, setting up design processes, and helping teams to navigate complexity to establish clear goals and user-centered outcomes.
+A common thread in all my work is a desire to understand underlying systems and structures. I gravitate toward research, setting up design processes, and helping teams to navigate complexity to define clear goals and user-centered outcomes.
 
 Because the bulk of my career has been in design roles at nonprofits with limited resources, I excel at working within constraints to find pragmatic solutions. I am comfortable serving in multiple roles on a product team, and am often responsible for taking products from concept to completion by leading generative and evaluative research; defining the structure, behavior, and presentation of product features; and working with developers through agile development methods to build and deploy digital experiences.
 
 I am currently a senior user experience designer at the [Library of Congress](https://www.loc.gov/), and am the author of [NPR's Guide To Hypothesis-Driven Design For Editorial Projects](https://training.npr.org/2018/06/25/take-our-playbook-nprs-guide-to-building-immersive-storytelling-projects/), which provides a detailed explanation of the approach I've used to design [multiple](https://apps.npr.org/lookatthis/posts/publichousing/) [award-winning](http://apps.npr.org/tshirt/#/title) [stories](http://apps.npr.org/lookatthis/posts/brazil/).
 
-Outside of work, I am a long-distance runner, documentary film nerd, and music obsessed dad that occasionally shares thoughts about design and technology on <a rel="me" href="https://mastodon.social/@lindamood">Mastodon</a>.
+Outside of work, I am a long-distance runner, documentary film nerd, and music-obsessed dad who occasionally shares thoughts about design and technology on <a rel="me" href="https://mastodon.social/@lindamood">Mastodon</a>.
 
 **[Get in touch with me 📧](mailto:hi@lindamood.org)**
 
@@ -33,7 +33,7 @@ Outside of work, I am a long-distance runner, documentary film nerd, and music o
 <div class="work-highlight-description" markdown="1">
 
 <h3>Library of Congress</h3>
-<p>I started working at the Library of Congress in January of 2020. In my current role, I lead user experience research and design activities for a multiyear U.S. Copyright Office modernization initiative. In this role, I work as a lead UX designer on an agile scrum team responsible for the development of a new copyright registration system, and work with UX and software development colleagues on the management and maintenance of a design system used by all Enterprise Copyright System applications.</p>
+<p>I started at the Library of Congress in January of 2020. I lead user experience research and design activities for a multiyear U.S. Copyright Office modernization initiative. In this role, I work as a lead UX designer on an agile scrum team responsible for the development of a new copyright registration system, and work with UX and software development colleagues on the management and maintenance of a design system used by all Enterprise Copyright System applications.</p>
 
 **[Learn more about my work at the Library of Congress](/loc/)**
 
@@ -108,7 +108,7 @@ A screenshot of the home page for NPR.org in 2013 when we <a href="https://www.n
 
 <div class="work-highlight-description">
 <h3>Project Argo</h3>
-<p>Project Argo was a two-year Corporation for Public Broadcasting and the Knight Foundation funded project that was created to strengthen local journalism by building a network of NPR member station blogs that focused on local interest topics including health, race and culture, and the environment. I was a lead designer and front-end developer on the project from February 2010 to May of 2012. As part of a four-person product team, I helped create a <a href="http://argoproject.org/">WordPress-based blogging platform and open source toolkit for beat reporting</a> used by blogs that averaged more than 100,000 unique monthly visitors, and served as  top online destinations for partner stations including KQED and KPBS.</p>
+<p>Project Argo was a two-year project fundeded by the Corporation for Public Broadcasting and the Knight Foundation to strengthen local journalism by building a network of NPR member station blogs that focused on local interest topics including health, race and culture, and the environment. I was a lead designer and front-end developer on the project from February 2010 to May of 2012. As part of a four-person product team, I helped create a <a href="http://argoproject.org/">WordPress-based blogging platform and open source toolkit for beat reporting</a> used by blogs that averaged more than 100,000 unique monthly visitors, and served as  top online destinations for partner stations including KQED and KPBS.</p>
 
 </div>
 
@@ -142,7 +142,7 @@ A screenshot of a search results page for Toxic Air and America's Schools, an aw
 
 <div class="work-highlight-description">
 <h3>American Chemical Society</h3>
-<p>Founded in 1876 and chartered by the U.S. Congress, the American Chemical Society is one of the world’s largest scientific organizations with membership of over 151,000 in 140 countries. I was an art director in the society's web strategy and operations department from December 2006 to May 2008. In this role, I managed a team of designers responsible for the design and maintenance of organization's primary website, acs.org.</p>
+<p>Founded in 1876 and chartered by the U.S. Congress, the American Chemical Society is one of the world’s largest scientific organizations, with membership of more than 151,000 in 140 countries. I was an art director in the society's web strategy and operations department from December 2006 to May 2008. In this role, I managed a team of designers responsible for the design and maintenance of organization's primary website, acs.org.</p>
 
 </div>
 
@@ -156,11 +156,11 @@ A screenshot of the American Chemical Society home page from 2008. I led visual 
 </div>
 
 ## Published articles and interviews
-* [The Evolution Of NPR’s Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/)
-* [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/)
-* [Take our playbook: NPR’s guide to building immersive storytelling projects](https://training.npr.org/2018/06/25/take-our-playbook-nprs-guide-to-building-immersive-storytelling-projects/)
-* [Faces Of NPR: Wes Lindamood](http://www.npr.org/sections/npr-extra/2017/02/27/514291946/faces-of-npr-wes-lindamood)
-* [MIT Open Documentary Lab: Mapping the Intersection of Two Cultures: Interactive Documentary and Digital Journalism](http://opendoclab.mit.edu/interactivejournalism/)
+* [The Evolution Of NPR’s Picture Stories](https://source.opennews.org/articles/evolution-nprs-picture-stories/), *Source*
+* [How And Why Cross-Disciplinary Collaboration Rocks](https://source.opennews.org/articles/how-and-why-cross-disciplinary-collaboration-rocks/), *Source*
+* [Take our playbook: NPR’s guide to building immersive storytelling projects](https://training.npr.org/2018/06/25/take-our-playbook-nprs-guide-to-building-immersive-storytelling-projects/), *NPR Training*
+* [Faces Of NPR: Wes Lindamood](http://www.npr.org/sections/npr-extra/2017/02/27/514291946/faces-of-npr-wes-lindamood), *NPR Extra*
+* [Mapping the Intersection of Two Cultures: Interactive Documentary and Digital Journalism](http://opendoclab.mit.edu/interactivejournalism/), *MIT Open Documentary Lab* 
 
 {% comment %}
 The link to this video is broken

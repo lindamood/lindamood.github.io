@@ -70,5 +70,5 @@ In addition to supporting registration system development, I work with designers
 
 ### Continuous delivery of value
 
-My management of design activities for the registration system has has brought quality and efficiency to the development process. My support for the copyright design system has made it easier to reuse common components and functionality across the Enterprise Copyright System.
+My management of design activities for the registration system has brought quality and efficiency to the development process. My support for the copyright design system has made it easier to reuse common components and functionality across the Enterprise Copyright System.
 

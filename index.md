@@ -110,7 +110,7 @@ A screenshot of the home page for NPR.org in 2013 when we <a href="https://www.n
 
 <div class="work-highlight-description">
 <h3>Project Argo</h3>
-<p>Project Argo was a two-year project fundeded by the Corporation for Public Broadcasting and the Knight Foundation to strengthen local journalism by building a network of NPR member station blogs that focused on local interest topics including health, race and culture, and the environment. I was a lead designer and front-end developer on the project from February 2010 to May of 2012. As part of a four-person product team, I helped create a <a href="http://argoproject.org/">WordPress-based blogging platform and open source toolkit for beat reporting</a> used by blogs that averaged more than 100,000 unique monthly visitors, and served as  top online destinations for partner stations including KQED and KPBS.</p>
+<p>Project Argo was a two-year project funded by the Corporation for Public Broadcasting and the Knight Foundation to strengthen local journalism by building a network of NPR member station blogs that focused on local interest topics including health, race and culture, and the environment. I was a lead designer and front-end developer on the project from February 2010 to May of 2012. As part of a four-person product team, I helped create a <a href="http://argoproject.org/">WordPress-based blogging platform and open source toolkit for beat reporting</a> used by blogs that averaged more than 100,000 unique monthly visitors, and served as  top online destinations for partner stations including KQED and KPBS.</p>
 
 </div>
 

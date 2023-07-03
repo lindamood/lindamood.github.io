@@ -24,7 +24,7 @@ To help our team frame our work in a broader context, I showed how user journey 
 To build the maps, I planned and facilitated a series of user needs analysis workshops attended by 
 leadership and stakeholders from the U.S. Copyright Office, the Copyright Modernization Office, and the Office of the Chief Information Officer (OCIO). In each workshop, I partnered with a colleague on the UX team to guide participants through exercises designed to identify user needs at each step in registration system journey. At the end of the workshops, we synthesized the findings and presented the team with maps representing our collective understanding of user needs for the registration system.
 
-This work was recognized by Copyright and OCIO leadership as a critical part of the strategic planning process for the registration development project, and has served as key project documentation that has helped align the team around a shared set of goals, onboard new team members, and to describe the system to a wide array of stakeholders
+This work was recognized by Copyright and OCIO leadership as a critical part of the strategic planning process for the registration development project, and has served as key project documentation that has helped align the team around a shared set of goals, onboard new team members, and to describe the system to a wide array of stakeholders.
 
 
 ## Copyright registration user research and testing

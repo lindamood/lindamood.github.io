@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Library of Congress work highlights
-permalink: /loc/
+permalink: /portfolio/loc/
 ---
 
 As a senior user experience designer at the Library of Congress I am responsible for user research, strategy, product design, and interaction design. Below are some examples that showcase my experience in these areas.

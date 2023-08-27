@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: NPR Visuals team work highlights
-permalink: /npr-visuals/
+permalink: /portfolio/npr-visuals/
 ---
 
 While NPR produces much more than radio programming these days, it is still known to many as National Public Radio. I've always thought that working as a designer for an organization historically known for audio presented a unique opportunity. Unlike other news organizations with a long history of visual journalism in print, the rules for how to tell a story visually at NPR were not well established. This gave me and my colleagues on the NPR Visuals team the freedom to work without preconceived notions and develop new approaches to visual journalism and digital storytelling.

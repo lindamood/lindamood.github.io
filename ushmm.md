@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: United States Holocaust Memorial Museum work highlights
-permalink: /ushmm/
+permalink: /portfolio/ushmm/
 ---
 
 As a design manager at the United States Holocaust Memorial Museum, I supervised a small team with a broad skill set that included: exhibit designers that were responsible for the planning, design, and maintenance of physical exhibits; user experience designers that were responsible for the design and maintenance of digital exhibits and products; and developers that were responsible for full stack development of museum exhibits and products.

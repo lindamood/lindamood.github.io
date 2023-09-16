@@ -15,7 +15,7 @@ layout: home
 
 {% endcomment %}
 
-# Hi, I'm Wes 👋 I'm a project manager and design leader with a proven track record in user experience design.
+# Hi, I'm Wes. I'm a project manager and design leader with a proven track record in user experience design.
 
 I am currently a project manager at the U.S. Copyright Office, and am the author of [NPR's Guide To Hypothesis-Driven Design For Editorial Projects](https://training.npr.org/2018/06/25/take-our-playbook-nprs-guide-to-building-immersive-storytelling-projects/), which provides a detailed explanation of the approach I've used to design [multiple award-winning stories](/portfolio).
 
